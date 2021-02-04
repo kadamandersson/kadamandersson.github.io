@@ -1,6 +1,4 @@
-# Adam Andersson
-
-<img align = "left" src="adamandersson.jpg" width="150">
+<img padding = 10px align = "left" src="adamandersson.jpg" width="150">
 
 I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
 
@@ -84,10 +82,11 @@ I am continuously supervising students at both master and PhD level. If you are 
 - 2019-2020: Smartr, Chief Scientist and consultant.
 - 2016-2019: Syntronic, Team Leader and consultant.
 - 2015-2016: TU Berlin, Postdoctoral researcher.
+- 2009-2015: Chalmers University of Technology, PhD student. 
 
 ## Education
-- 2009-2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
-- 2003-2009: Chalmers University of Technology, MSc in Automation and Mechatronics. [Thesis](master_thesis.pdf)
+- 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
+- 2009: Chalmers University of Technology, MSc in Automation and Mechatronics. [Thesis](master_thesis.pdf)
 
 
 
