@@ -2,9 +2,14 @@
 
 <img align = "left" src="adamandersson.jpg" width="150">
 
-I am Adjunct Associate Professor in computational mathematics at the Department of Mathematical Sciences at Chalmers University of Technology and Senior Radar Systems Engineer at Saab. 
+I am Adjunct Associate Professor in Computational Mathematics at the Department of Mathematical Sciences at Chalmers University of Technology and Senior Radar Systems Engineer at Saab. 
 
-**Deep learning accelerated computations:** This is my main research field. It concerns the use of deep learning to obtain computationally feasible approximate algorithms for problems that are . I work in non-linear filtering, optimal control, Bayesian statistics 
+My current research topic conserns the use of deep learning to obtain computationally feasible approximate algorithms for problems computationally challenging problems. In particular I work in non-linear filtering, optimal control, Bayesian statistics and scientific computations. 
+
+Here is my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), [Google Scholar profile](https://scholar.google.se/citations?user=LzPSY_YAAAAJ&hl=sv) and [LinkedIn profile](https://www.linkedin.com/in/adam-andersson-61695462/).
+
+
+**Deep learning accelerated computations:** This is my main research field. It concerns 
 
 **Radar signal and data processing:** Still learng this
 
