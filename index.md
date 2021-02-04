@@ -4,13 +4,21 @@
 
 I am Adjunct Associate Professor in Computational Mathematics at the Department of Mathematical Sciences at Chalmers University of Technology and Senior Radar Systems Engineer at Saab. 
 
-My current research topic conserns the use of deep learning to obtain accelerated and scalable algorithms for computationally challenging problems. More precisely, I work on deep learning for non-linear filtering, optimal control, Bayesian statistics, scientific computations, radar signal and data processing and radar control. 
+My current research topic conserns the use of deep learning to obtain accelerated and scalable algorithms for computationally challenging problems. More precisely, I work on deep learning for non-linear filtering, optimal control, Bayesian statistics, scientific computations, radar signal processing and control. 
 
 In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. When I define new research topics I try to find synnergies with my old research field.
 
-Here are my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), [Google Scholar profile](https://scholar.google.se/citations?user=LzPSY_YAAAAJ&hl=sv) and [LinkedIn profile](https://www.linkedin.com/in/adam-andersson-61695462/).
+Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), [Google Scholar profile](https://scholar.google.se/citations?user=LzPSY_YAAAAJ&hl=sv) and [LinkedIn profile](https://www.linkedin.com/in/adam-andersson-61695462/).
+
+E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
+
+I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis projects with the benefits of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. I have topics for industrial PhD projects and when opportunities arise I plan to apply for funding for such positions. If you interested, then please contact me and see if there are any open possibilities. Examples of topics
+
+- Deep learning accelerated numerical schemes for Maxwell's equations.
+- Reinforcement learning for optimal radar resource management. 
+- Bayesian statistics for clutter suppresion in radar signal processing. 
 
 ### PhD students
 
