@@ -1,4 +1,4 @@
-# Adam Andersson (page under construction)
+# Adam Andersson
 
 <img align = "left" src="adamandersson.jpg" width="150">
 
@@ -14,11 +14,11 @@ Here are my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/a
 
 ### PhD students
 
-- **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
+- **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale much better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
 
 ### Master thesis students
 
-- **Axel Nathanson** is working on applying reinforcement learning for the radar resource management problem, i.e., the optimization problem of how to use the radar energy in the best way in order to both detect new unknown targets and to track allready known targets. Axel started in January 2021.
+- **Axel Nathanson** is working on applying reinforcement learning for the radar resource management problem, i.e., the problem of controlling the radar energy optimally in order to both detect new unknown targets and to track allready known targets. Axel is enrolled in the Engineering Mathematics and Computational Science master program at Chalmers. He is a contracted master thesis student at Saab and started in January 2021.
 
 ### Previous master thesis students
 
@@ -56,6 +56,8 @@ Here are my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/a
 	
 - A. Andersson and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, arXiv:1703.07259 (2017), 48 pages.
 
+### Lecture notes
+- A. Andersson and P. Sjögren, [Ornstein-Uhlenbeck theory in finite dimensions](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf), Chalmers, 2012.
 
 ## Presentations available on YouTube
 
