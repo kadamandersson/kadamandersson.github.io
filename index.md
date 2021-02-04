@@ -2,7 +2,7 @@
 
 I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
 
-My current research topic conserns the use of deep learning to obtain accelerated and scalable algorithms for computationally challenging problems. More precisely, I work on deep learning for non-linear filtering, optimal control, Bayesian statistics, solving PDE, radar signal processing and control. 
+My current research topic conserns the use of deep learning to obtain accelerated and scalable algorithms for computationally challenging problems. More precisely, I work on deep learning for non-linear filtering, optimal control, Bayesian statistics, solving PDE and radar signal processing. 
 
 In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. When I define new research topics I try to find synnergies with my old research field.
 
