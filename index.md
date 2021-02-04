@@ -4,7 +4,9 @@
 
 I am Adjunct Associate Professor in Computational Mathematics at the Department of Mathematical Sciences at Chalmers University of Technology and Senior Radar Systems Engineer at Saab. 
 
-My current research topic conserns the use of deep learning to obtain computationally feasible approximate algorithms for problems computationally challenging problems. In particular I work in non-linear filtering, optimal control, Bayesian statistics and scientific computations. 
+My current research topic conserns the use of deep learning to obtain computationally feasible approximate algorithms for computationally challenging problems. More precisely, I work on non-linear filtering, optimal control, Bayesian statistics, scientific computations and radar signal and data processing and control. 
+
+In my previous research I worked on stochastic differential equations, in particular numerical analysis and solution theory for stochastic partial differential equations. When I define new research topics I try to find synnergies with my old research field.
 
 Here is my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), [Google Scholar profile](https://scholar.google.se/citations?user=LzPSY_YAAAAJ&hl=sv) and [LinkedIn profile](https://www.linkedin.com/in/adam-andersson-61695462/).
 
