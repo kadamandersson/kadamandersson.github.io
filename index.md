@@ -14,11 +14,13 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis projects with the benefits of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. I have topics for industrial PhD projects and when opportunities arise I plan to apply for funding for such positions. If you interested, then please contact me and see if there are any open possibilities. Examples of topics
+I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis och PhD projects with the benefits of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. Examples of topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
 - Reinforcement learning for optimal radar resource management. 
 - Bayesian statistics for clutter suppresion in radar signal processing. 
+- Neural networks with functional input.
+- Signature based machine learning, see for instance [this paper](https://arxiv.org/abs/1905.08494).
 
 ### PhD students
 
