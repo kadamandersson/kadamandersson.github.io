@@ -86,7 +86,8 @@ I am continuously supervising students at both master and PhD level. If you are 
 
 ## Education
 - 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
-- 2009: Chalmers University of Technology, MSc in Automation and Mechatronics. [Thesis](master_thesis.pdf)
+- 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
+- 2006: Chalmers University of Technology, BSc in Automation and Mechatronics. [Thesis](master_thesis.pdf)
 
 
 
