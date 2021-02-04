@@ -1,4 +1,4 @@
-<img vspace = "10" hspace = "20" align = "left" src="adamandersson.jpg" width="150">
+<img style = "padding: 15px 5px 10px 20px" src="adamandersson.jpg" width="150">
 
 I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
 
