@@ -1,4 +1,4 @@
-<img padding = 10px align = "left" src="adamandersson.jpg" width="150">
+<img padding-right = 20px padding-bottom = 10px align = "left" src="adamandersson.jpg" width="150">
 
 I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
 
@@ -12,7 +12,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis och PhD projects with the benefits of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. Examples of topics that interest me are:
+I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or PhD projects with the benefits of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. Examples of topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
 - Reinforcement learning for optimal radar resource management. 
