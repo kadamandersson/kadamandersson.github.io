@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+# Adam Andersson
 
-You can use the [editor on GitHub](https://github.com/kadamandersson/kadamandersson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is under construction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Adjunct Associate Professor in computational mathematics at the Department of Mathematical Sciences at Chalmers University of Technology and Senior Radar Systems Engineer at Saab. 
+
+## Research
+
+**Deep learning accelerated computations:** This is my main research field. It concerns the use of deep learning to obtain computationally feasible approximate algorithms for problems that are . I work in non-linear filtering, optimal control, Bayesian statistics 
+
+**Radar signal and data processing:** 
+
+**Stochastic analysis:** 
+
+## Supervision
+
+## Publications
+
+## Presentations
+
+<!---
 
 ### Markdown
 
@@ -35,3 +51,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
