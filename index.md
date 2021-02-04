@@ -39,6 +39,14 @@ I am continuously supervising students at both master and PhD level. If you are 
 - **Viktor Blomqvist** and **David Lidberg** [Swedish dialect classification using artificial neural networks and Gaussian mixture models](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf), Chalmers/Syntronic 2017. Viktor continued as algorithm developer at Syntronic and David as machine learning engineer at RaySearch Laborarories.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin 2016. Leander continued as a consultant at Sopra Steria Consulting.
 
+## Presentations available on YouTube
+
+- Docent lecture 2020: [Riccati and Lyapunov equations for control and weak approximation of stochastic PDE](https://www.youtube.com/watch?v=VoePEMaH1X0&fbclid=IwAR31d7TRfh22S33A9Q331Z6dn3aEjDLL9tr3VTUff4bdLM2bqNXnrxvL88s), Chalmers.
+
+- Gothenburg Artificial Intelligence Alliance 2020 conference: [Removing computational bottlenecks with deep learning](https://www.youtube.com/watch?v=ljhtfrtuNqw). Starts after 6h 35 min.
+
+- Gothenburg Artificial Intelligence Alliance MeetUp 2018: [Deep learning for equation solving and technical computations](https://www.youtube.com/watch?v=B9ugHg9Sy6g).
+
 ## Publications
 
 ### Submitted articles
@@ -66,14 +74,6 @@ I am continuously supervising students at both master and PhD level. If you are 
 
 ### Lecture notes
 - A. Andersson and P. Sjögren, [Ornstein-Uhlenbeck theory in finite dimensions](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf), Chalmers, 2012.
-
-## Presentations available on YouTube
-
-- Docent lecture 2020: [Riccati and Lyapunov equations for control and weak approximation of stochastic PDE](https://www.youtube.com/watch?v=VoePEMaH1X0&fbclid=IwAR31d7TRfh22S33A9Q331Z6dn3aEjDLL9tr3VTUff4bdLM2bqNXnrxvL88s), Chalmers.
-
-- Gothenburg Artificial Intelligence Alliance 2020 conference: [Removing computational bottlenecks with deep learning](https://www.youtube.com/watch?v=ljhtfrtuNqw). Starts after 6h 35 min.
-
-- Gothenburg Artificial Intelligence Alliance MeetUp 2018: [Deep learning for equation solving and technical computations](https://www.youtube.com/watch?v=B9ugHg9Sy6g).
 
 ## Positions
 
