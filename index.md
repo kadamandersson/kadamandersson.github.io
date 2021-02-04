@@ -1,5 +1,3 @@
-# Adam Andersson
-
 <img align = "left" src="adamandersson.jpg" width="150">
 
 I am Adjunct Associate Professor in Computational Mathematics at the Department of Mathematical Sciences at Chalmers University of Technology and Senior Radar Systems Engineer at Saab. 
