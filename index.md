@@ -1,5 +1,7 @@
 # Adam Andersson (page under construction)
 
+<img align = "left" src="adamandersson.jpg" width="150">
+
 I am Adjunct Associate Professor in computational mathematics at the Department of Mathematical Sciences at Chalmers University of Technology and Senior Radar Systems Engineer at Saab. 
 
 ## Research
@@ -12,14 +14,34 @@ I am Adjunct Associate Professor in computational mathematics at the Department 
 
 ## Supervision
 
+### PhD students
+
+- **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
+
+### Master students
+
+- **Axel Nathanson** is working on applying reinforcement learning for the radar resource management problem, i.e., the optimization problem of how to use the radar energy in the best way in order to both detect new unknown targets and to track allready known targets. 
+
+### Previous master students
+
+- **Oskar Holmstedt** and **Elias Hölen Hannouch** [Deep learning accelerated Bayesian estimation for state space models](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf), Chalmers/Smartr 2020. Elias continued to work as a developer at Ericsson.
+- **Klara Granbom** [On nonlinear machine learning methods for dose-response data in drug discovery](https://odr.chalmers.se/bitstream/20.500.12380/300963/1/Klara_Granbom_Master_Thesis.pdf), Chalmers/Smartr/IRLAB, 2020. Klara continued as a developer at Collector Bank. 
+- **Anton Matsson** and **Victor Ohlsson** [Learning customer behavior with generative adversarial imitation learning](https://odr.chalmers.se/bitstream/20.500.12380/301319/1/Matsson_Olsson_2020.pdf), Chalmers/Smartr 2020. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
+- **Kristoffer Andersson** [Approximate stochastic control based on deep learning and forward backward stochastic differential equations](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf), Chalmers/Syntronic 2018. Kristoffer continued as a PhD student in machine learning for mathematical finance at Centrum Wiskunde Informatica, Amsterdam.
+- **Gustaf Ehn** and **Hugo Werner** [Scalable reinforcement learning for a simulated production line](https://lup.lub.lu.se/student-papers/search/publication/8936610), Lund University/Syntronic 2018. Gustaf continued as algorithm developer at Syntronic and Hugo as data scientist at Stena Line and industrial PhD student in AI at KTH.
+- **Robin Andersson** [Sparse representation and image classification with the shearlet transform](https://odr.chalmers.se/bitstream/20.500.12380/251854/1/251854.pdf), Chalmers/Syntronic 2017. Robin continued as algorithm developer at Syntronic.
+- **David Lidberg** and **Viktor Blomqvist** [Swedish dialect classification using artificial neural networks and Gaussian mixture models](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf), Chalmers/Syntronic 2017. David continued as machine learning engineer at RaySearch Laborarories and Viktor as algorithm developer at Syntronic.
+- **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
+
+
 ## Publications
 
-## Presentations
+## Selected presentations
 
 ## Positions
 
-- 2021-now:  Chalmers University of Technology, Adjunct Associate Professor.
-- 2020-now:  Saab Surveillance, Radar Systems Engineer.
+- 2021-ongoing:  Chalmers University of Technology, Adjunct Associate Professor.
+- 2020-ongoing:  Saab Surveillance, Radar Systems Engineer.
 - 2019-2020: Smartr, Chief Scientist and consultant.
 - 2016-2019: Syntronic, Team Leader and consultant.
 - 2015-2016: TU Berlin, Postdoctoral researcher.
