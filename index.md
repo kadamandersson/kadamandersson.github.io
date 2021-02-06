@@ -16,7 +16,7 @@ I am continuously supervising students at both master and PhD level. If you are 
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
 - Deep learning accelerated Bayesian methods. See for instance this [thesis](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf).
-- Deep learning accelerated optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
+- Deep learning accelerated non-linear optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
 - Reinforcement learning for optimal radar resource management. 
 - Bayesian methods for radar signal processing. 
 - Investigation of the chirplet transform for radar signal processing.
