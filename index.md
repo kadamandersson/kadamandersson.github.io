@@ -17,7 +17,7 @@ I am continuously supervising students at both master and PhD level. If you are 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
 - Reinforcement learning for optimal radar resource management. 
 - Bayesian methods for radar signal processing. 
-- Signature based machine learning, see for instance [this paper](https://arxiv.org/abs/1905.08494) or [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
+- Signature based machine learning. See for instance [this paper](https://arxiv.org/abs/1905.08494) or [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
 - Deep learning based optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
 - Neural networks with functional input. 
 
@@ -78,12 +78,12 @@ I am continuously supervising students at both master and PhD level. If you are 
 
 ## Positions
 
-- 2021-ongoing:  Chalmers University of Technology, Adjunct Associate Professor.
-- 2020-ongoing:  Saab Surveillance, Radar Systems Engineer.
-- 2019-2020: Smartr, Chief Scientist and consultant.
-- 2016-2019: Syntronic, Team Leader and consultant.
-- 2015-2016: TU Berlin, Postdoctoral researcher.
-- 2009-2015: Chalmers University of Technology, PhD student. 
+- 2021-ongoing:  [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), Adjunct Associate Professor.
+- 2020-ongoing:  [Saab Surveillance](https://www.saab.com/products/air/airborne-surveillance), Radar Systems Engineer.
+- 2019-2020: [Smartr](https://smartr.se), Chief Scientist and consultant.
+- 2016-2019: [Syntronic](https://www.syntronic.com), Team Leader and consultant.
+- 2015-2016: [TU Berlin](https://www.tu-berlin.de/?9003), Postdoctoral researcher.
+- 2009-2015: [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), PhD student. 
 
 ## Education
 - 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
