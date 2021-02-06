@@ -1,10 +1,10 @@
 <img align = "left" style = "float:left; padding: 0px 20px 10px 0px" src="adamandersson.jpg" width="180">
 
-I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
+I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and [University of Gothenburg](https://www.gu.se), and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
 
 My current research topic conserns the use of deep learning to obtain accelerated and scalable algorithms for computationally challenging problems. More precisely, I work on deep learning for non-linear filtering, optimal control, Bayesian statistics, solving PDE and radar signal processing. 
 
-In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. When I define new research topics I try to find synnergies with my old research field.
+In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. When I define new research topics I try to find synergies with my old research field.
 
 Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), [Google Scholar profile](https://scholar.google.se/citations?user=LzPSY_YAAAAJ&hl=sv) and [LinkedIn profile](https://www.linkedin.com/in/adam-andersson-61695462/).
 
@@ -12,7 +12,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. Thesis topics that interest me are:
+I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects. Thesis topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
 - Deep learning accelerated Bayesian methods. See for instance this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf).
