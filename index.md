@@ -15,11 +15,13 @@ E-mail: adam.andersson(at)chalmers.se
 I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. Thesis topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
+- Deep learning accelerated Bayesian methods. See for instance this [thesis](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf).
 - Reinforcement learning for optimal radar resource management. 
 - Bayesian methods for radar signal processing. 
 - Signature based machine learning. See for instance [this paper](https://arxiv.org/abs/1905.08494) or [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
 - Deep learning based optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
 - Neural networks with functional input. 
+- Investigation of the chirplet transform for radar signal processing.
 
 ### PhD students
 
