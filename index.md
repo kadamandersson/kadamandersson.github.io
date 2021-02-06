@@ -16,12 +16,12 @@ I am continuously supervising students at both master and PhD level. If you are 
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
 - Deep learning accelerated Bayesian methods. See for instance this [thesis](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf).
+- Deep learning accelerated optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
 - Reinforcement learning for optimal radar resource management. 
 - Bayesian methods for radar signal processing. 
-- Signature based machine learning. See for instance [this paper](https://arxiv.org/abs/1905.08494) or [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
-- Deep learning based optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
-- Neural networks with functional input. 
 - Investigation of the chirplet transform for radar signal processing.
+- Signature based machine learning. See for instance [this paper](https://arxiv.org/abs/1905.08494) or [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
+- Neural networks with functional input. 
 
 ### PhD students
 
