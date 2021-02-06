@@ -12,7 +12,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. Thesis topics that interest me are:
+I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. Thesis topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
 - Reinforcement learning for optimal radar resource management. 
@@ -88,7 +88,7 @@ I am continuously supervising students at both master and PhD level. If you are 
 ## Education
 - 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
 - 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
-- 2006: Chalmers University of Technology, BSc in Automation and Mechatronics. [Thesis](master_thesis.pdf)
+- 2006: Chalmers University of Technology, BSc in Automation and Mechatronics.
 
 
 
