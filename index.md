@@ -12,13 +12,14 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. Examples of topics that interest me are:
+I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occationally supervise academic master thesis projects. Thesis topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
 - Reinforcement learning for optimal radar resource management. 
-- Bayesian statistics for clutter suppresion in radar signal processing. 
-- Neural networks with functional input.
-- Signature based machine learning, see for instance [this paper](https://arxiv.org/abs/1905.08494).
+- Bayesian methods for radar signal processing. 
+- Signature based machine learning, see for instance [this paper](https://arxiv.org/abs/1905.08494) or [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
+- Deep learning based optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
+- Neural networks with functional input. 
 
 ### PhD students
 
@@ -30,14 +31,14 @@ I am continuously supervising students at both master and PhD level. If you are 
 
 ### Previous master thesis students
 
-- **Elias Hölen Hannouch** and **Oskar Holmstedt** [Deep learning accelerated Bayesian estimation for state space models](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf), Chalmers/Smartr 2020. Elias continued to work as a developer at Ericsson.
-- **Klara Granbom** [On nonlinear machine learning methods for dose-response data in drug discovery](https://odr.chalmers.se/bitstream/20.500.12380/300963/1/Klara_Granbom_Master_Thesis.pdf), Chalmers/Smartr/IRLAB, 2020. Klara continued as a developer at Collector Bank. 
-- **Anton Matsson** and **Victor Ohlsson** [Learning customer behavior with generative adversarial imitation learning](https://odr.chalmers.se/bitstream/20.500.12380/301319/1/Matsson_Olsson_2020.pdf), Chalmers/Smartr 2020. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
-- **Kristoffer Andersson** [Approximate stochastic control based on deep learning and forward backward stochastic differential equations](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf), Chalmers/Syntronic 2018. Kristoffer continued as a PhD student in machine learning for mathematical finance at Centrum Wiskunde Informatica, Amsterdam.
-- **Gustaf Ehn** and **Hugo Werner** [Scalable reinforcement learning for a simulated production line](https://lup.lub.lu.se/student-papers/search/publication/8936610), Lund University/Syntronic 2018. Gustaf continued as algorithm developer at Syntronic and Hugo as data scientist at Stena Line and industrial PhD student in AI at KTH.
-- **Robin Andersson** [Sparse representation and image classification with the shearlet transform](https://odr.chalmers.se/bitstream/20.500.12380/251854/1/251854.pdf), Chalmers/Syntronic 2017. Robin continued as algorithm developer at Syntronic.
-- **Viktor Blomqvist** and **David Lidberg** [Swedish dialect classification using artificial neural networks and Gaussian mixture models](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf), Chalmers/Syntronic 2017. Viktor continued as algorithm developer at Syntronic and David as machine learning engineer at RaySearch Laborarories.
-- **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin 2016. Leander continued as a consultant at Sopra Steria Consulting.
+- **Kristoffer Andersson** [Approximate stochastic control based on deep learning and forward backward stochastic differential equations](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf), Chalmers/Syntronic. Kristoffer continued as a PhD student in machine learning for mathematical finance at Centrum Wiskunde Informatica, Amsterdam.
+- **Robin Andersson** [Sparse representation and image classification with the shearlet transform](https://odr.chalmers.se/bitstream/20.500.12380/251854/1/251854.pdf), Chalmers/Syntronic. Robin continued as algorithm developer at Syntronic.
+- **Viktor Blomqvist** and **David Lidberg** [Swedish dialect classification using artificial neural networks and Gaussian mixture models](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf), Chalmers/Syntronic. Viktor continued as algorithm developer at Syntronic and David as machine learning engineer at RaySearch Laborarories.
+- **Gustaf Ehn** and **Hugo Werner** [Scalable reinforcement learning for a simulated production line](https://lup.lub.lu.se/student-papers/search/publication/8936610), Lund University/Syntronic. Gustaf continued as algorithm developer at Syntronic and Hugo as data scientist at Stena Line and industrial PhD student in AI at KTH.
+- **Klara Granbom** [On nonlinear machine learning methods for dose-response data in drug discovery](https://odr.chalmers.se/bitstream/20.500.12380/300963/1/Klara_Granbom_Master_Thesis.pdf), Chalmers/Smartr/IRLAB. Klara continued as a developer at Collector Bank. 
+- **Elias Hölen Hannouch** and **Oskar Holmstedt** [Deep learning accelerated Bayesian estimation for state space models](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf), Chalmers/Smartr. Elias continued to work as a developer at Ericsson.
+- **Anton Matsson** and **Victor Ohlsson** [Learning customer behavior with generative adversarial imitation learning](https://odr.chalmers.se/bitstream/20.500.12380/301319/1/Matsson_Olsson_2020.pdf), Chalmers/Smartr. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
+- **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
 
 ## Presentations available on YouTube
 
