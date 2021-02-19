@@ -22,7 +22,7 @@ I am continuously supervising students at both master and PhD level. If you are 
 - Investigation of the chirplet transform for radar signal processing.
 - Signature based machine learning. See for instance this [paper](https://arxiv.org/abs/1905.08494) or this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
 - Neural networks with functional input. 
-- Theory for a continuous time formulation of the multi object target tracking problem (stochastic analysis).
+- A continuous time formulation of the multi object target tracking problem (stochastic analysis).
 
 ### PhD students
 
