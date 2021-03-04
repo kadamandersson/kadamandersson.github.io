@@ -54,9 +54,9 @@ I am continuously supervising students at both master and PhD level. If you are 
 ## Publications
 
 ### Submitted articles
-- A. Andersson, A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations for the computation of quadratic functionals of SPDEs, arXiv:1910.05261, 41 pages.	
+- A. Andersson, A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations for the computation of quadratic functionals of SPDEs, [arXiv:1910.05261](https://arxiv.org/pdf/1910.05261.pdf), 41 pages.	
 	
-- A. Andersson and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, arXiv:1703.07259, 48 pages.
+- A. Andersson and F. Lindner, [Poisson Malliavin calculus in Hilbert space with an application to SPDE](https://arxiv.org/pdf/1703.07259.pdf), arXiv:1703.07259, 48 pages.
 
 ### Journal articles
 
