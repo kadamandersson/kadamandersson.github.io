@@ -12,7 +12,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Planned talks
 
-- Online workshop May 19, 2021, [Modern optimization and machine learning in acoustics, EM, radar and sonar](https://ai.lu.se/events/?evenemang=modern-optimization-and-machine-learning-acoustics-em-radar-and-sonar): Deep learning accelerated computations for radar related applications.
+- Online workshop May 19, 2021: [Modern optimization and machine learning in acoustics, EM, radar and sonar](https://ai.lu.se/events/?evenemang=modern-optimization-and-machine-learning-acoustics-em-radar-and-sonar). Title of talk: Deep learning accelerated computations for radar related applications.
 
 ## Supervision
 
