@@ -10,7 +10,7 @@ Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Si
 
 E-mail: adam.andersson(at)chalmers.se
 
-## Planned talks
+## Comming talks
 
 - Online workshop May 19, 2021: [Modern optimization and machine learning in acoustics, EM, radar and sonar](https://ai.lu.se/events/?evenemang=modern-optimization-and-machine-learning-acoustics-em-radar-and-sonar). Title of talk: Deep learning accelerated computations for radar related applications.
 
@@ -43,7 +43,7 @@ I am continuously supervising students at both master and PhD level. If you are 
 - **Viktor Blomqvist** and **David Lidberg** [Swedish dialect classification using artificial neural networks and Gaussian mixture models](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf), Chalmers/Syntronic. Viktor continued as algorithm developer at Syntronic and David as machine learning engineer at RaySearch Laborarories.
 - **Gustaf Ehn** and **Hugo Werner** [Scalable reinforcement learning for a simulated production line](https://lup.lub.lu.se/student-papers/search/publication/8936610), Lund University/Syntronic. Gustaf continued as algorithm developer at Syntronic and Hugo as data scientist at Stena Line and industrial PhD student in AI at KTH.
 - **Klara Granbom** [On nonlinear machine learning methods for dose-response data in drug discovery](https://odr.chalmers.se/bitstream/20.500.12380/300963/1/Klara_Granbom_Master_Thesis.pdf), Chalmers/Smartr/IRLAB. Klara continued as a developer at Collector Bank. 
-- **Elias Hölen Hannouch** and **Oskar Holmstedt** [Deep learning accelerated Bayesian estimation for state space models](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf), Chalmers/Smartr. Elias continued to work as a developer at Ericsson.
+- **Elias Hölen Hannouch** and **Oskar Holmstedt** [Deep learning accelerated Bayesian estimation for state space models](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf), Chalmers/Smartr. Elias and Oskar continued to work as a developers at Ericsson.
 - **Anton Matsson** and **Victor Ohlsson** [Learning customer behavior with generative adversarial imitation learning](https://odr.chalmers.se/bitstream/20.500.12380/301319/1/Matsson_Olsson_2020.pdf), Chalmers/Smartr. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
 
