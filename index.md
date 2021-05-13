@@ -14,6 +14,8 @@ E-mail: adam.andersson(at)chalmers.se
 
 - Online workshop May 19, 2021: [Modern optimization and machine learning in acoustics, EM, radar and sonar](https://ai.lu.se/events/?evenemang=modern-optimization-and-machine-learning-acoustics-em-radar-and-sonar). Title of talk: Deep learning accelerated computations for radar related applications.
 
+- Gothenburg Artificial Intelligence MeetUp May 27, 2021, hosted by Smartr. Title of talk: Elements of model-based deep learning.
+
 ## Supervision
 
 I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects. Thesis topics that interest me are:
