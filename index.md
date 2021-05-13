@@ -27,7 +27,7 @@ I am continuously supervising students at both master and PhD level. If you are 
 - Bayesian methods for radar signal processing. 
 - Investigation of the chirplet transform for radar signal processing.
 - Signature based machine learning. See for instance this [paper](https://arxiv.org/abs/1905.08494) or this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
-- Neural networks with functional input. 
+- Learning operators for partial differential equations or Bayesian statistics. See for instance this [paper](https://arxiv.org/abs/1910.03193) or this [paper](https://arxiv.org/abs/2010.08895). 
 - A continuous time formulation of the multi object target tracking problem (stochastic analysis).
 
 ### PhD students
