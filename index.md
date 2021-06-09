@@ -10,10 +10,6 @@ Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Si
 
 E-mail: adam.andersson(at)chalmers.se
 
-<>## Comming talks
-<>
-<>- Gothenburg Artificial Intelligence MeetUp May 27, 2021, hosted by Smartr. Title of talk: Elements of model-based deep learning.
-
 ## Supervision
 
 I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects. Thesis topics that interest me are:
