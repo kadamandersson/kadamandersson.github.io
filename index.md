@@ -10,9 +10,9 @@ Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Si
 
 E-mail: adam.andersson(at)chalmers.se
 
-## Comming talks
-
-- Gothenburg Artificial Intelligence MeetUp May 27, 2021, hosted by Smartr. Title of talk: Elements of model-based deep learning.
+<>## Comming talks
+<>
+<>- Gothenburg Artificial Intelligence MeetUp May 27, 2021, hosted by Smartr. Title of talk: Elements of model-based deep learning.
 
 ## Supervision
 
