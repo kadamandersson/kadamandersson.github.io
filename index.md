@@ -31,10 +31,6 @@ I am continuously supervising students at both master and PhD level. If you are 
 
 - **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale much better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
 
-### Master thesis students
-
-- **Axel Nathanson** is working on applying reinforcement learning for the radar resource management problem, i.e., the problem of controlling the radar energy optimally in order to both detect new unknown targets and to track allready known targets. Axel is enrolled in the Engineering Mathematics and Computational Science master program at Chalmers. He is a contracted master thesis student at Saab and started in January 2021.
-
 ### Previous master thesis students
 
 - **Kristoffer Andersson** [Approximate stochastic control based on deep learning and forward backward stochastic differential equations](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf), Chalmers/Syntronic. Kristoffer continued as a PhD student in machine learning for mathematical finance at Centrum Wiskunde Informatica, Amsterdam.
@@ -44,6 +40,7 @@ I am continuously supervising students at both master and PhD level. If you are 
 - **Klara Granbom** [On nonlinear machine learning methods for dose-response data in drug discovery](https://odr.chalmers.se/bitstream/20.500.12380/300963/1/Klara_Granbom_Master_Thesis.pdf), Chalmers/Smartr/IRLAB. Klara continued as a developer at Collector Bank. 
 - **Elias Hölen Hannouch** and **Oskar Holmstedt** [Deep learning accelerated Bayesian estimation for state space models](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf), Chalmers/Smartr. Elias and Oskar continued to work as a developers at Ericsson.
 - **Anton Matsson** and **Victor Ohlsson** [Learning customer behavior with generative adversarial imitation learning](https://odr.chalmers.se/bitstream/20.500.12380/301319/1/Matsson_Olsson_2020.pdf), Chalmers/Smartr. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
+- **Axel Nathansson** Exploration of reinforcement learning in radar scheduling, Chalmers/Saab. Axel continued as algorithm developer at Tobii.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
 
 ## Presentations available on YouTube
