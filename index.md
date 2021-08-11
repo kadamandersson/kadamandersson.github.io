@@ -12,17 +12,20 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects. Thesis topics that interest me are:
+I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects. Thesis topics that I interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
-- Deep learning accelerated Bayesian methods. See for instance this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf).
+- Deep learning accelerated Bayesian methods. See for instance this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf). 
 - Deep learning accelerated optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
-- Reinforcement learning for optimal radar resource management. 
-- Bayesian methods for radar signal processing. 
+- Deep learning accelerated Bayesian computations for radar detection (*).
+- Semi definite programming for radar detection (*)
+- Reinforcement learning for optimal radar resource management (*). 
 - Investigation of the chirplet transform for radar signal processing.
 - Signature based machine learning. See for instance this [paper](https://arxiv.org/abs/1905.08494) or this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
 - Learning operators for partial differential equations or Bayesian statistics. See for instance this [paper](https://arxiv.org/abs/1910.03193) or this [paper](https://arxiv.org/abs/2010.08895). 
 - A continuous time formulation of the multi object target tracking problem (stochastic analysis).
+
+(*) These projects are prioritized for industrial master thesis projects at Saab in the Spring 2022.
 
 ### PhD students
 
@@ -88,7 +91,8 @@ I am continuously supervising students at both master and PhD level. If you are 
 - 2015-2016: [TU Berlin](https://www.tu-berlin.de/?9003), Postdoctoral researcher.
 - 2009-2015: [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), PhD student. 
 
-## Education
+## Degrees
+- 2021: Chalmers University of Technology, Associate Professor (Docent) in Computational Mathematics.
 - 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
 - 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
 - 2006: Chalmers University of Technology, BSc in Automation and Mechatronics.
