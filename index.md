@@ -14,7 +14,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects.
 
-For the **spring 2022** (or earlier) I intend to supervise **one industrial and one academic project**. The highest prioritized projects are listed here.
+For the **spring 2022** (or earlier) I intend to supervise **one industrial and possibly one academic project**. The students I seek have a passion for both theory and practice, and like to formalise concepts mathematically. 
 
 ### Industrial master thesis projects
 
@@ -25,7 +25,7 @@ For the **spring 2022** (or earlier) I intend to supervise **one industrial and 
 
 - **A novel training procedure for conditional generative models** This proposal concerns the learning of generative models. There are notions of weak and strong representations of probability distributions. For some problems it is easier to train the weak representation, but the strong is the one needed (in generative models). The project concerns a two step procedure learning a weak representation first and from the weak representation training a strong representation. Elements of the approach are inspired by Wasserstein GAN. Students should have a solid mathematical maturity and have some experience with traing deep neural networks.
 
-### Other less well specified or mature thesis topics that interest me are:
+### Other less well specified thesis topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
 - Deep learning accelerated optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
