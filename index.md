@@ -23,7 +23,7 @@ For the **spring 2022** (or earlier) I intend to supervise **one industrial and 
 
 ### Academic master thesis projects 
 
-- **A novel training procedure for conditional generative models** This proposal concerns the learning of generative models. There are notions of weak and strong representations of probability distributions. For some problems it is easier to train the weak representation, but the strong is the one needed (in generative models). The project concerns a two step procedure learning a weak representation first and from the weak representation training a strong representation. Elements of the approach are inspired by Wasserstein GAN. Students should have a solid mathematical maturity and have some experience with traing deep neural networks.
+- **A novel training procedure for conditional generative models** This proposal concerns the learning of generative models. There are notions of weak and strong representations of probability distributions. For some problems it is easier to train the weak representation, but the strong is the desired (in generative models). The project concerns a two step procedure learning a weak representation first and from the weak representation training a strong representation. Elements of the approach are inspired by Wasserstein GAN. Students should have some experience with traing deep neural networks.
 
 ### Other less well specified thesis topics that interest me are:
 
