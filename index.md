@@ -12,20 +12,28 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects. Thesis topics that I interest me are:
+I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects.
+
+For the spring 2022 (or earlier) I intend to supervise **one industrial and one academic project**. The highest prioritized projects are listed here.
+
+### Industrial master thesis projects
+
+- **Deep learning accelerated Bayesian radar detection** This project concerns an accelerated Gibbs sampler for solving a sparse linear inverse problems in radar detection. Emphasis is on Bayesian modelling and computations, but the interested student can also learn the radar context. Radar data is complex-valued and the distributions in the Bayesian modeling are complex counterparts to well known real distributions. A part of the work concerns theoretical work, working out the distributions of the model using conjugate priors. Students should know both Bayesian statistics and traing deep neural networks. 
+- **Semi-definite programming for radar detection** This project considers the radar detection problem from a another perspective using so called atomic norms. It breaks down to a convex optimisation problem, more precisely, semi-definite programming. The framework is elegant but nontrivial. A non-negligable part of the work will be theoretical, learning and formulating the theory in a detail level suitable for a master thesis. Besides this, the student will do numerical computations and make comparison with more classical approaches. Students should have a strong background in optimisation.
+
+### Academic master thesis projects 
+
+- **A novel training procedure for conditional generative models** This proposal concerns the learning of generative models. There are notions of weak and strong representations of probability distributions. For some problems it is easier to train the weak representation, but the strong is the one needed (in generative models). The project concerns a two step procedure learning a weak representation first and from the weak representation training a strong representation. Elements of the approach are inspired by Wasserstein GAN. Students should have a solid mathematical maturity and have some experience with traing deep neural networks.
+
+### Other less well specified or mature thesis topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
-- Deep learning accelerated Bayesian methods. See for instance this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf). 
 - Deep learning accelerated optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
-- Deep learning accelerated Bayesian computations for radar detection (*).
-- Semi definite programming for radar detection (*)
-- Reinforcement learning for optimal radar resource management (*). 
+- Reinforcement learning for optimal radar resource management (project for 2023). 
 - Investigation of the chirplet transform for radar signal processing.
 - Signature based machine learning. See for instance this [paper](https://arxiv.org/abs/1905.08494) or this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
 - Learning operators for partial differential equations or Bayesian statistics. See for instance this [paper](https://arxiv.org/abs/1910.03193) or this [paper](https://arxiv.org/abs/2010.08895). 
 - A continuous time formulation of the multi object target tracking problem (stochastic analysis).
-
-(*) These projects are prioritized for industrial master thesis projects at Saab in the Spring 2022.
 
 ### PhD students
 
