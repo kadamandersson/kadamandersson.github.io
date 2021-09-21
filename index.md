@@ -14,7 +14,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects.
 
-For the **spring 2022** (or earlier) I intend to supervise **one industrial and possibly one academic project**. The students I seek have a passion for both theory and practice, and like to formalise and communicate concepts mathematically. 
+For the **spring 2022** (or earlier) I intend to supervise **one industrial and possibly one academic project**. The students I seek like both theory and practice. 
 
 ### Industrial master thesis projects
 
