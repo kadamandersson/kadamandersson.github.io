@@ -12,15 +12,15 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-I am continuously supervising students at both master and PhD level. If you are a student who share some of my interests, please do not hessitate to reach out to me. Topics of enough relevance for Saab can be made into an industrial master thesis or eventually industrial PhD projects with the benefit of working in a professionally and socially interesting context. Otherwise, I plan to occasionally supervise academic master thesis projects.
-
-For the **spring 2022** (or earlier) I intend to supervise **one industrial and possibly one academic project**. The students I seek like both theory and practice. 
+For the **spring 2022** (or earlier) I intend to supervise **one industrial and possibly one academic master thesis project**. The students I seek like both theory and practice. 
 
 ### Industrial master thesis projects
 
 - **Deep learning accelerated Bayesian radar detection** This project concerns an accelerated Gibbs sampler for solving a sparse linear inverse problems in radar detection. Emphasis is on Bayesian modelling and computations, but the interested student can also learn the radar context. Radar data is complex-valued and the distributions in the Bayesian modeling are complex counterparts to well known real distributions. A part of the work concerns theoretical work, working out the distributions of the model using conjugate priors. Students should know both Bayesian statistics and traing of deep neural networks. A relevant reference is this [paper](https://ieeexplore.ieee.org/document/7060282). The project is co-supervised by PhD-student Kasper Bågmark.
 - **Semi-definite programming for radar detection** This project considers the radar detection problem from a another perspective, using so called atomic norms. It breaks down to a convex optimisation problem, more precisely, semi-definite programming. The framework is elegant but nontrivial, see this [paper](https://arxiv.org/pdf/1904.04283.pdf). A non-negligable part of the work will be theoretical, learning and formulating the theory in a detail level suitable for a master thesis. Besides this, the student will do numerical computations and make comparison with more classical approaches. Students should have a strong background in optimisation.
 - **Deep learning approximations of solutions to Fokker-Planck equations** The Fokker-Planck equation solves the evolution of marginal (fixed time) probability distribution of the solutions to a stochastic differential equations. This project concerns literature review of deep learning based approximation methods, ideally innovation of some new approach and implementations with comparisons. There are both PDE- and SDE-based schemes. The student(s) should have studied stochastic analysis, partial differential equations and numerical analysis. The project is co-supervised by PhD-student Kasper Bågmark.
+
+Apply for these projects at [Saab's webpage](https://www.saab.com/career/students#791_type_vacancies_block_24450_skip_4)
 
 ### Academic master thesis projects 
 
