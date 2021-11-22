@@ -12,7 +12,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-For the **spring 2022** (or earlier) I intend to supervise **one industrial and possibly one academic master thesis project**. The students I seek like both theory and practice. 
+For the **spring 2022** I intend to supervise **1-2 master thesis project**. The students I seek like both theory and practice. 
 
 ### Industrial master thesis projects
 
@@ -29,9 +29,7 @@ Apply for these projects at [Saab's webpage](https://www.saab.com/career/student
 ### Other less well specified thesis topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
-- Deep learning accelerated optimal control inside a domain. Extension of this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf).
 - Reinforcement learning for optimal radar resource management (project for 2023). 
-- Investigation of the chirplet transform for radar signal processing.
 - Signature based machine learning. See for instance this [paper](https://arxiv.org/abs/1905.08494) or this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
 - Learning operators for partial differential equations or Bayesian statistics. See for instance this [paper](https://arxiv.org/abs/1910.03193) or this [paper](https://arxiv.org/abs/2010.08895). 
 - A continuous time formulation of the multi object target tracking problem (stochastic analysis).
