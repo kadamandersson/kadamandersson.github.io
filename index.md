@@ -12,31 +12,13 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-For the **spring 2022** I intend to supervise **1-2 master thesis project**. The students I seek like both theory and practice. 
-
-### Industrial master thesis projects
-
-- **Deep learning accelerated Bayesian radar detection** This project concerns an accelerated Gibbs sampler for solving a sparse linear inverse problems in radar detection. Emphasis is on Bayesian modelling and computations, but the interested student can also learn the radar context. Radar data is complex-valued and the distributions in the Bayesian modeling are complex counterparts to well known real distributions. A part of the work concerns theoretical work, working out the distributions of the model using conjugate priors. Students should know both Bayesian statistics and traing of deep neural networks. A relevant reference is this [paper](https://ieeexplore.ieee.org/document/7060282). The project is co-supervised by PhD-student Kasper Bågmark.
-- **Semi-definite programming for radar detection** This project considers the radar detection problem from a another perspective, using so called atomic norms. It breaks down to a convex optimisation problem, more precisely, semi-definite programming. The framework is elegant but nontrivial, see this [paper](https://arxiv.org/pdf/1904.04283.pdf). A non-negligable part of the work will be theoretical, learning and formulating the theory in a detail level suitable for a master thesis. Besides this, the student will do numerical computations and make comparison with more classical approaches. Students should have a strong background in optimisation.
-- **Deep learning approximations of solutions to Fokker-Planck equations** The Fokker-Planck equation solves the evolution of marginal (fixed time) probability distribution of the solutions to a stochastic differential equations. This project concerns literature review of deep learning based approximation methods, ideally innovation of some new approach and implementations with comparisons. There are both PDE- and SDE-based schemes. The student(s) should have studied stochastic analysis, partial differential equations and numerical analysis. The project is co-supervised by PhD-student Kasper Bågmark.
-
-Apply for these projects at [Saab's webpage](https://www.saab.com/career/students#791_type_vacancies_block_24450_skip_4)
-
-### Academic master thesis projects 
-
-- **A novel training procedure for conditional generative models** This proposal concerns the learning of generative models. There are notions of weak and strong representations of probability distributions. For some problems it is easier to train the weak representation, but the strong is the desired (in generative models). The project concerns a two step procedure learning a weak representation first and from the weak representation training a strong representation. Elements of the approach are inspired by Wasserstein GAN. Students should have some experience with traing deep neural networks. The project is co-supervised by PhD-student Kasper Bågmark.
-
-### Other less well specified thesis topics that interest me are:
-
-- Deep learning accelerated numerical schemes for Maxwell's equations.
-- Reinforcement learning for optimal radar resource management (project for 2023). 
-- Signature based machine learning. See for instance this [paper](https://arxiv.org/abs/1905.08494) or this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
-- Learning operators for partial differential equations or Bayesian statistics. See for instance this [paper](https://arxiv.org/abs/1910.03193) or this [paper](https://arxiv.org/abs/2010.08895). 
-- A continuous time formulation of the multi object target tracking problem (stochastic analysis).
-
 ### PhD students
 
 - **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale much better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
+
+### Master students
+
+For the spring 2022 I will supervise 2 master thesis projects on Bayesian methods for radar detection and I will not consider any further applications. 
 
 ### Previous master thesis students
 
@@ -49,6 +31,25 @@ Apply for these projects at [Saab's webpage](https://www.saab.com/career/student
 - **Anton Matsson** and **Victor Ohlsson** [Learning customer behavior with generative adversarial imitation learning](https://odr.chalmers.se/bitstream/20.500.12380/301319/1/Matsson_Olsson_2020.pdf), Chalmers/Smartr. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
 - **Axel Nathansson** [Exploration of reinforcement learning in radar scheduling](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf), Chalmers/Saab. Axel continued as algorithm developer at Tobii.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
+
+### Possible future master thesis projects for the fall 2022 or later
+
+- **Semi-definite programming for radar detection** This project considers the radar detection problem from a another perspective, using so called atomic norms. It breaks down to a convex optimisation problem, more precisely, semi-definite programming. The framework is elegant but nontrivial, see this [paper](https://arxiv.org/pdf/1904.04283.pdf). A non-negligable part of the work will be theoretical, learning and formulating the theory in a detail level suitable for a master thesis. Besides this, the student will do numerical computations and make comparison with more classical approaches. Students should have a strong background in optimisation.
+
+- **Deep learning approximations of solutions to Fokker-Planck equations** The Fokker-Planck equation solves the evolution of marginal (fixed time) probability distribution of the solutions to a stochastic differential equations. This project concerns literature review of deep learning based approximation methods, ideally innovation of some new approach and implementations with comparisons. There are both PDE- and SDE-based schemes. The student(s) should have studied stochastic analysis, partial differential equations and numerical analysis. The project is co-supervised by PhD-student Kasper Bågmark.
+
+- **A novel training procedure for conditional generative models** This proposal concerns the learning of generative models. There are notions of weak and strong representations of probability distributions. For some problems it is easier to train the weak representation, but the strong is the desired (in generative models). The project concerns a two step procedure learning a weak representation first and from the weak representation training a strong representation. Elements of the approach are inspired by Wasserstein GAN. Students should have some experience with traing deep neural networks. The project is co-supervised by PhD-student Kasper Bågmark.
+
+- **Adaptive sensor scheduling using deep reinforcement learning** An Active Electrically Steered Antenna (AESA) can distribute its energy in a range of angles and can change direction without inertia. This freedom creates great opportunities to steer or control the use of the antenna in order to conduct the double task to both find new targets and to update tracked targets. The project is the continuation of this [thesis](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf) that was considering a too difficult problem to start with. We now have a new radar simulator at Saab that allows to simulate much simpler and less realistic settings in order to learn the difficulties. When it does realism can be increased.
+
+### Other less well specified thesis topics that interest me are:
+
+- Deep learning accelerated numerical schemes for Maxwell's equations.
+- Signature based machine learning. See for instance this [paper](https://arxiv.org/abs/1905.08494) or this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
+- Learning operators for partial differential equations or Bayesian statistics. See for instance this [paper](https://arxiv.org/abs/1910.03193) or this [paper](https://arxiv.org/abs/2010.08895). 
+- A continuous time formulation of the multi object target tracking problem (stochastic analysis).
+
+
 
 ## Presentations available on YouTube
 
