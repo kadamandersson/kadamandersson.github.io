@@ -16,10 +16,6 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale much better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
 
-### Master students
-
-For the spring 2022 I will supervise 2 master thesis projects on Bayesian methods for radar detection and I will not consider any further applications. 
-
 ### Previous master thesis students
 
 - **Kristoffer Andersson** [Approximate stochastic control based on deep learning and forward backward stochastic differential equations](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf), Chalmers/Syntronic. Kristoffer continued as a PhD student in machine learning for mathematical finance at Centrum Wiskunde Informatica, Amsterdam.
@@ -32,7 +28,7 @@ For the spring 2022 I will supervise 2 master thesis projects on Bayesian method
 - **Axel Nathansson** [Exploration of reinforcement learning in radar scheduling](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf), Chalmers/Saab. Axel continued as algorithm developer at Tobii.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
 
-### Possible future master thesis projects for the fall 2022 or later
+### Possible future master thesis projects 
 
 - **Semi-definite programming for radar detection (industrial)** This project considers the radar detection problem from a another perspective, using so called atomic norms. It breaks down to a convex optimisation problem, more precisely, semi-definite programming. The framework is elegant but nontrivial, see this [paper](https://arxiv.org/pdf/1904.04283.pdf). A non-negligable part of the work will be theoretical, learning and formulating the theory in a detail level suitable for a master thesis. Besides this, the student will do numerical computations and make comparison with more classical approaches. Students should have a strong background in optimisation.
 
