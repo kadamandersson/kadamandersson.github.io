@@ -10,6 +10,59 @@ Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Si
 
 E-mail: adam.andersson(at)chalmers.se
 
+
+
+## Publications
+
+### Submitted articles
+- A. Andersson, A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations for the computation of quadratic functionals of SPDEs, [arXiv:1910.05261](https://arxiv.org/pdf/1910.05261.pdf), 41 pages.	
+	
+- A. Andersson and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, [arXiv:1703.07259](https://arxiv.org/pdf/1703.07259.pdf), 48 pages.
+
+### Journal articles
+
+- A. Andersson, A. Jentzen and R. Kurniawan, Existence uniquness and regularity for stochastic evolution equations with irregular initial values, _J. Math. Anal. and Appl._ (2021).
+
+- A. Andersson and F. Lindner, Malliavin regularity and weak approximation of semilinear SPDE with Lévy noise, _Discrete Continuous Dyn. Syst. Ser. B._ (2019), 4271--4294.
+
+- A. Andersson, M. Hefter, A. Jentzen and R. Kurniawan, Regularity properties for solutions of infinite dimensional Kolmogorov equations in Hilbert spaces, _Potential Anal._ (2019), 347--379.
+
+- A. Andersson, A. Jentzen, R. Kurniawan and T. Welti, On the differentiability of solutions of stochastic evolution equations with respect to their initial values, _Nonlinear Anal._ (2017), p. 128--161.
+
+- A. Andersson and R. Kruse, Mean-square convergence of the BDF2-Maruyama and backward Euler schemes for SDE with globally monotone coefficients, _BIT Numer. Math._ (2017), 21--53.
+
+- A. Andersson, M. Kovács and S. Larsson, Weak error analysis for semilinear stochastic Volterra equations with additive noise,  _J. Math. Anal. Appl._ (2016), 1283--1304.
+
+- A. Andersson, R. Kruse and S. Larsson, Duality in refined Sobolev-Malliavin spaces and weak approximation of SPDE, _J. SPDE Anal. Comp._ (2016), 113--149.
+
+- A. Andersson and S. Larsson, Weak convergence for a spatial approximation of the nonlinear stochastic heat equation, _Math. Comp._ (2016), p. 1335--1358.
+
+### Lecture notes
+- A. Andersson and P. Sjögren, [Ornstein-Uhlenbeck theory in finite dimensions](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf), Chalmers, 2012.
+
+## Presentations available on YouTube
+
+- Docent lecture 2020: [Riccati and Lyapunov equations for control and weak approximation of stochastic PDE](https://www.youtube.com/watch?v=VoePEMaH1X0&fbclid=IwAR31d7TRfh22S33A9Q331Z6dn3aEjDLL9tr3VTUff4bdLM2bqNXnrxvL88s), Chalmers.
+
+- Gothenburg Artificial Intelligence Alliance 2020 conference: [Removing computational bottlenecks with deep learning](https://www.youtube.com/watch?v=hQBFStGj_jA).
+
+- Gothenburg Artificial Intelligence Alliance MeetUp 2018: [Deep learning for equation solving and technical computations](https://www.youtube.com/watch?v=B9ugHg9Sy6g).
+
+## Positions
+
+- 2021-ongoing:  [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), Adjunct Associate Professor.
+- 2020-ongoing:  [Saab Surveillance](https://www.saab.com/products/air/airborne-surveillance), Radar Systems Engineer.
+- 2019-2020: [Smartr](https://smartr.se), Chief Scientist and consultant.
+- 2016-2019: [Syntronic](https://www.syntronic.com), Team Leader and consultant.
+- 2015-2016: [TU Berlin](https://www.tu-berlin.de/?9003), Postdoctoral researcher.
+- 2009-2015: [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), PhD student. 
+
+## Degrees
+- 2021: Chalmers University of Technology, Associate Professor (Docent) in Computational Mathematics.
+- 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
+- 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
+- 2006: Chalmers University of Technology, BSc in Automation and Mechatronics.
+
 ### PhD student
 
 - **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale much better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
@@ -44,57 +97,6 @@ E-mail: adam.andersson(at)chalmers.se
 - A continuous time formulation of the multi object target tracking problem (stochastic analysis).
 
 
-
-## Presentations available on YouTube
-
-- Docent lecture 2020: [Riccati and Lyapunov equations for control and weak approximation of stochastic PDE](https://www.youtube.com/watch?v=VoePEMaH1X0&fbclid=IwAR31d7TRfh22S33A9Q331Z6dn3aEjDLL9tr3VTUff4bdLM2bqNXnrxvL88s), Chalmers.
-
-- Gothenburg Artificial Intelligence Alliance 2020 conference: [Removing computational bottlenecks with deep learning](https://www.youtube.com/watch?v=hQBFStGj_jA).
-
-- Gothenburg Artificial Intelligence Alliance MeetUp 2018: [Deep learning for equation solving and technical computations](https://www.youtube.com/watch?v=B9ugHg9Sy6g).
-
-## Publications
-
-### Submitted articles
-- A. Andersson, A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations for the computation of quadratic functionals of SPDEs, [arXiv:1910.05261](https://arxiv.org/pdf/1910.05261.pdf), 41 pages.	
-	
-- A. Andersson and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, [arXiv:1703.07259](https://arxiv.org/pdf/1703.07259.pdf), 48 pages.
-
-### Journal articles
-
-- A. Andersson, A. Jentzen and R. Kurniawan, Existence uniquness and regularity for stochastic evolution equations with irregular initial values, _J. Math. Anal. and Appl._ (2021).
-
-- A. Andersson and F. Lindner, Malliavin regularity and weak approximation of semilinear SPDE with Lévy noise, _Discrete Continuous Dyn. Syst. Ser. B._ (2019), 4271--4294.
-
-- A. Andersson, M. Hefter, A. Jentzen and R. Kurniawan, Regularity properties for solutions of infinite dimensional Kolmogorov equations in Hilbert spaces, _Potential Anal._ (2019), 347--379.
-
-- A. Andersson, A. Jentzen, R. Kurniawan and T. Welti, On the differentiability of solutions of stochastic evolution equations with respect to their initial values, _Nonlinear Anal._ (2017), p. 128--161.
-
-- A. Andersson and R. Kruse, Mean-square convergence of the BDF2-Maruyama and backward Euler schemes for SDE with globally monotone coefficients, _BIT Numer. Math._ (2017), 21--53.
-
-- A. Andersson, M. Kovács and S. Larsson, Weak error analysis for semilinear stochastic Volterra equations with additive noise,  _J. Math. Anal. Appl._ (2016), 1283--1304.
-
-- A. Andersson, R. Kruse and S. Larsson, Duality in refined Sobolev-Malliavin spaces and weak approximation of SPDE, _J. SPDE Anal. Comp._ (2016), 113--149.
-
-- A. Andersson and S. Larsson, Weak convergence for a spatial approximation of the nonlinear stochastic heat equation, _Math. Comp._ (2016), p. 1335--1358.
-
-### Lecture notes
-- A. Andersson and P. Sjögren, [Ornstein-Uhlenbeck theory in finite dimensions](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf), Chalmers, 2012.
-
-## Positions
-
-- 2021-ongoing:  [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), Adjunct Associate Professor.
-- 2020-ongoing:  [Saab Surveillance](https://www.saab.com/products/air/airborne-surveillance), Radar Systems Engineer.
-- 2019-2020: [Smartr](https://smartr.se), Chief Scientist and consultant.
-- 2016-2019: [Syntronic](https://www.syntronic.com), Team Leader and consultant.
-- 2015-2016: [TU Berlin](https://www.tu-berlin.de/?9003), Postdoctoral researcher.
-- 2009-2015: [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), PhD student. 
-
-## Degrees
-- 2021: Chalmers University of Technology, Associate Professor (Docent) in Computational Mathematics.
-- 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
-- 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
-- 2006: Chalmers University of Technology, BSc in Automation and Mechatronics.
 
 
 
