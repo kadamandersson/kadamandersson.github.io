@@ -63,6 +63,8 @@ E-mail: adam.andersson(at)chalmers.se
 - 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
 - 2006: Chalmers University of Technology, BSc in Automation and Mechatronics.
 
+## Supervision
+
 ### PhD student
 
 - **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale much better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
