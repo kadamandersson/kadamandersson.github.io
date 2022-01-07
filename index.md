@@ -40,7 +40,7 @@ E-mail: adam.andersson(at)chalmers.se
 ### Lecture notes
 - A. Andersson and P. Sjögren, [Ornstein-Uhlenbeck theory in finite dimensions](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf), Chalmers, 2012.
 
-## Presentations available on YouTube
+## Presentations on YouTube
 
 - Docent lecture 2020: [Riccati and Lyapunov equations for control and weak approximation of stochastic PDE](https://www.youtube.com/watch?v=VoePEMaH1X0&fbclid=IwAR31d7TRfh22S33A9Q331Z6dn3aEjDLL9tr3VTUff4bdLM2bqNXnrxvL88s), Chalmers.
 
@@ -48,7 +48,9 @@ E-mail: adam.andersson(at)chalmers.se
 
 - Gothenburg Artificial Intelligence Alliance MeetUp 2018: [Deep learning for equation solving and technical computations](https://www.youtube.com/watch?v=B9ugHg9Sy6g).
 
-## Positions
+## Bio
+
+### Positions
 
 - 2021-ongoing:  [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), Adjunct Associate Professor.
 - 2020-ongoing:  [Saab Surveillance](https://www.saab.com/products/air/airborne-surveillance), Radar Systems Engineer.
@@ -57,7 +59,7 @@ E-mail: adam.andersson(at)chalmers.se
 - 2015-2016: [TU Berlin](https://www.tu-berlin.de/?9003), Postdoctoral researcher.
 - 2009-2015: [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), PhD student. 
 
-## Degrees
+### Degrees
 - 2021: Chalmers University of Technology, Associate Professor (Docent) in Computational Mathematics.
 - 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
 - 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
