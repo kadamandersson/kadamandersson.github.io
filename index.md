@@ -66,6 +66,10 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale much better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
 
+### Master student
+
+- **Mika Persson** is working on deep learning acceleration of Bayesian computations for a radar estimation problem.
+
 ### Previous master thesis students
 
 - **Kristoffer Andersson** [Approximate stochastic control based on deep learning and forward backward stochastic differential equations](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf), Chalmers/Syntronic. Kristoffer continued as a PhD student in machine learning for mathematical finance at Centrum Wiskunde Informatica, Amsterdam.
