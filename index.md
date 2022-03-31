@@ -111,6 +111,8 @@ E-mail: adam.andersson(at)chalmers.se
 
 <!---
 
+- K. Bågmark, A. Andersson, S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, [arXiv:2203.XXXXX](https://arxiv.org/pdf/2203.XXXXX.pdf), 20 pages.	
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
