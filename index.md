@@ -15,6 +15,9 @@ E-mail: adam.andersson(at)chalmers.se
 ## Publications
 
 ### Preprints and submitted articles
+
+- K. Bågmark, A. Andersson, S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, [arXiv:2203.17153](https://arxiv.org/pdf/2203.17153.pdf), 20 pages.	
+
 - K. Andersson, A. Andersson, C. W. Oosterlee, Convergence of a robust deep FBSDE method for stochastic control, [arXiv:2201.06854](https://arxiv.org/pdf/2201.06854.pdf), 25 pages.	
 
 - A. Andersson, A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations for the computation of quadratic functionals of SPDEs, [arXiv:1910.05261](https://arxiv.org/pdf/1910.05261.pdf), 41 pages.	
@@ -111,7 +114,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 <!---
 
-- K. Bågmark, A. Andersson, S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, [arXiv:2203.XXXXX](https://arxiv.org/pdf/2203.XXXXX.pdf), 20 pages.	
+
 
 ### Markdown
 
