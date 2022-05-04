@@ -20,7 +20,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 - K. Andersson, A. Andersson, C. W. Oosterlee, Convergence of a robust deep FBSDE method for stochastic control, [arXiv:2201.06854](https://arxiv.org/pdf/2201.06854.pdf), 25 pages.	
 
-- A. Andersson, A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations for the computation of quadratic functionals of SPDEs, [arXiv:1910.05261](https://arxiv.org/pdf/1910.05261.pdf), 41 pages.	
+- A. Andersson, A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations for the computation of quadratic functionals of SPDEs, [arXiv:1910.05261](https://arxiv.org/pdf/1910.05261.pdf), 37 pages.	
 	
 - A. Andersson and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, [arXiv:1703.07259](https://arxiv.org/pdf/1703.07259.pdf), 48 pages.
 
