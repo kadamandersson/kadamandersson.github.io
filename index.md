@@ -71,7 +71,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Master student
 
-- **Mika Persson** is working on deep learning acceleration of Bayesian computations for a radar estimation problem.
+- **Mika Persson** is working on deep learning acceleration of Bayesian inference for the direction of arrival problem.
 
 ### Previous master thesis students
 
