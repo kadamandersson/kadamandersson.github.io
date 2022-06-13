@@ -95,6 +95,8 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **Adaptive sensor scheduling using deep reinforcement learning (industrial)** An Active Electrically Steered Antenna (AESA) can distribute its energy in a range of angles and can change direction without inertia. This freedom creates great opportunities to steer or control the use of the antenna in order to conduct the double task to both find new targets and to update tracked targets. The project is the continuation of this [thesis](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf) that was considering a too difficult problem to start with. We now have a new radar simulator at Saab that allows to simulate much simpler and less realistic settings in order to learn the difficulties. When it does realism can be increased.
 
+- **Sticky PDMP sampler for Bayesian direction of arrival estimation** Bayesian statistics is powerful since it quantifies in the posterior the uncertainties in estimates. A dowside is that except in special cases, computing or sampling from the posterior is slow. The project concerns applying the method of this [paper](https://arxiv.org/abs/2103.08478) to the direction of arrival problem and compare it with other methods. 
+
 ### Other less well specified thesis topics that interest me are:
 
 - Deep learning accelerated numerical schemes for Maxwell's equations.
