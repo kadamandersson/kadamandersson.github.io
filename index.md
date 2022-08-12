@@ -84,7 +84,7 @@ E-mail: adam.andersson(at)chalmers.se
 - **Anton Matsson** and **Victor Ohlsson** [Learning customer behavior with generative adversarial imitation learning](https://odr.chalmers.se/bitstream/20.500.12380/301319/1/Matsson_Olsson_2020.pdf), Chalmers/Smartr. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
 - **Axel Nathansson** [Exploration of reinforcement learning in radar scheduling](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf), Chalmers/Saab. Axel continued as algorithm developer at Tobii.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
-- **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers, 2014.
+- **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers.
 
 ### Possible future master thesis projects 
 
