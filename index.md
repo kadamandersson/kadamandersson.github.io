@@ -51,7 +51,7 @@ E-mail: adam.andersson(at)chalmers.se
 ### Positions
 
 - 2021-ongoing:  [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), Adjunct Associate Professor.
-- 2020-ongoing:  [Saab Surveillance](https://www.saab.com/products/air/airborne-surveillance), Radar Systems Engineer.
+- 2020-ongoing:  [Saab AB Radar Solutions](https://www.saab.com/products/air/airborne-surveillance), Radar Systems Engineer.
 - 2019-2020: [Smartr](https://smartr.se), Chief Scientist and consultant.
 - 2016-2019: [Syntronic](https://www.syntronic.com), Team Leader and consultant.
 - 2015-2016: [TU Berlin](https://www.tu-berlin.de/?9003), Postdoctoral researcher.
