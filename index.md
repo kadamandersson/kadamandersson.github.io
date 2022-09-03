@@ -73,7 +73,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **Mika Persson** is working on deep learning accelerated Bayesian inference for the direction of arrival problem.
 
-- **Karl Hammar** is working on Bayesian point of launch estimation for hypersonic missiles. He is sampling the posterior with Partially Deterministic Markov Processes (PDMP). Supervised together with Benjamin Svedung Wettervik at Saab.
+- **Karl Hammar** is working on Bayesian point of launch estimation for hypersonic missiles. He is sampling the posterior with Partially Deterministic Markov Processes (PDMP). Supervised together with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
 
 
 ### Previous master thesis students
