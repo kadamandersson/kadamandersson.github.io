@@ -73,6 +73,9 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **Mika Persson** is working on deep learning accelerated Bayesian inference for the direction of arrival problem.
 
+- **Karl Hammar** is working on Bayesian estimation of the point of launch for hypersonic missiles. He is sampling the posterior with Partially Deterministic Markov Processes (PDMP).
+
+
 ### Previous master thesis students
 
 - **Kristoffer Andersson** [Approximate stochastic control based on deep learning and forward backward stochastic differential equations](https://odr.chalmers.se/bitstream/20.500.12380/256458/1/256458.pdf), Chalmers/Syntronic. Kristoffer continued as a PhD student in machine learning for mathematical finance at Centrum Wiskunde Informatica, Amsterdam.
