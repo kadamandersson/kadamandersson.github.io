@@ -88,24 +88,9 @@ E-mail: adam.andersson(at)chalmers.se
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
 - **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers.
 
-### Possible future master thesis projects 
+### Future master thesis projects 
 
-- **Semi-definite programming for radar detection (industrial)** This project considers the radar detection problem from a another perspective, using so called atomic norms. It breaks down to a convex optimisation problem, more precisely, semi-definite programming. The framework is elegant but nontrivial, see this [paper](https://arxiv.org/pdf/1904.04283.pdf). A non-negligable part of the work will be theoretical, learning and formulating the theory in a detail level suitable for a master thesis. Besides this, the student will do numerical computations and make comparison with more classical approaches. Students should have a strong background in optimisation.
-
-- **Exploring physics informed neural networks (industrial or academic)** Physics informed neural networks constitute the conceptually simplest class of deep learning solvers to partial differential equations. They are simple enough so that essentially no math skills are required. Therefore, the [original paper](https://faculty.sites.iastate.edu/hliu/files/inline-files/PINN_RPK_2019_1.pdf) has been cited 2900 times as of June 2022. Many of these papers are simply applications of the same method to various equations without much novelty. The purpose of the thesis is to understand different directions of physics informed neural networks, choose example equations to evaluate methods on, and investigate scaling to higher dimensions.
-
-- **A novel training procedure for conditional generative models (academic)** This proposal concerns the learning of generative models. There are notions of weak and strong representations of probability distributions. For some problems it is easier to train the weak representation, but the strong is the desired (in generative models). The project concerns a two step procedure learning a weak representation first and from the weak representation training a strong representation. Elements of the approach are inspired by Wasserstein GAN. Students should have some experience with traing deep neural networks. The project is co-supervised by PhD-student Kasper Bågmark.
-
-- **Adaptive sensor scheduling using deep reinforcement learning (industrial)** An Active Electrically Steered Antenna (AESA) can distribute its energy in a range of angles and can change direction without inertia. This freedom creates great opportunities to steer or control the use of the antenna in order to conduct the double task to both find new targets and to update tracked targets. The project is the continuation of this [thesis](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf) that was considering a too difficult problem to start with. We now have a new radar simulator at Saab that allows to simulate much simpler and less realistic settings in order to learn the difficulties. When it does realism can be increased.
-
-- **Sticky PDMP sampler for Bayesian direction of arrival estimation** Bayesian statistics is powerful since it quantifies in the posterior the uncertainties in estimates. A dowside is that except in special cases, computing or sampling from the posterior is slow. The project concerns applying the method of this [paper](https://arxiv.org/abs/2103.08478) to the direction of arrival problem and compare it with other methods. 
-
-### Other less well specified thesis topics that interest me are:
-
-- Deep learning accelerated numerical schemes for Maxwell's equations.
-- Signature based machine learning. See for instance this [paper](https://arxiv.org/abs/1905.08494) or this [master thesis](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf).
-- Learning operators for partial differential equations or Bayesian statistics. See for instance this [paper](https://arxiv.org/abs/1910.03193) or this [paper](https://arxiv.org/abs/2010.08895). 
-- A continuous time formulation of the multi object target tracking problem (stochastic analysis).
+If you would like to write your master thesis with me as supervisor, then please do not hessitate to contact me. I have project proposals for students interested in Bayesian statistics, stochastic analysis, signal processing and deep learning (no end-to-end). I have projects or can design projects on the scale from fully theoretical to fully practical/applied. 
 
 
 ## Presentations on YouTube
