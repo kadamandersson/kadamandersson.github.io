@@ -90,7 +90,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Future master thesis projects 
 
-If you would like to write your master thesis with me as supervisor, then please do not hessitate to contact me. I have project proposals for students interested in Bayesian statistics, stochastic analysis, signal processing and deep learning (no end-to-end). I have projects or can design projects on the scale from fully theoretical to fully practical/applied. Occationally I will be willing to supervise accademic projects, but I mainly supervise industrial projects for Saab and at the Saab office in Kallebäck, Göteborg.
+If you would like to write your master thesis with me as supervisor, then please do not hessitate to contact me. I have project proposals for students interested in Bayesian statistics, stochastic analysis, signal processing and deep learning (no end-to-end). I have projects or can design projects on the scale from fully theoretical to fully practical/applied. Occationally I will be willing to supervise accademic projects, but I mainly supervise industrial projects for Saab at the Saab office in Kallebäck, Göteborg.
 
 
 ## Presentations on YouTube
