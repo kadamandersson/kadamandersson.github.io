@@ -30,19 +30,19 @@ E-mail: adam.andersson(at)chalmers.se
 
 - A. Andersson, A. Jentzen and R. Kurniawan, Existence uniquness and regularity for stochastic evolution equations with irregular initial values, _J. Math. Anal. and Appl._ (2021).
 
-- A. Andersson and F. Lindner, Malliavin regularity and weak approximation of semilinear SPDE with Lévy noise, _Discrete Continuous Dyn. Syst. Ser. B._ (2019), 4271--4294.
+- A. Andersson and F. Lindner, Malliavin regularity and weak approximation of semilinear SPDE with Lévy noise, _Discrete Continuous Dyn. Syst. Ser. B._ (2019).
 
-- A. Andersson, M. Hefter, A. Jentzen and R. Kurniawan, Regularity properties for solutions of infinite dimensional Kolmogorov equations in Hilbert spaces, _Potential Anal._ (2019), 347--379.
+- A. Andersson, M. Hefter, A. Jentzen and R. Kurniawan, Regularity properties for solutions of infinite dimensional Kolmogorov equations in Hilbert spaces, _Potential Anal._ (2019).
 
-- A. Andersson, A. Jentzen, R. Kurniawan and T. Welti, On the differentiability of solutions of stochastic evolution equations with respect to their initial values, _Nonlinear Anal._ (2017), p. 128--161.
+- A. Andersson, A. Jentzen, R. Kurniawan and T. Welti, On the differentiability of solutions of stochastic evolution equations with respect to their initial values, _Nonlinear Anal._ (2017).
 
-- A. Andersson and R. Kruse, Mean-square convergence of the BDF2-Maruyama and backward Euler schemes for SDE with globally monotone coefficients, _BIT Numer. Math._ (2017), 21--53.
+- A. Andersson and R. Kruse, Mean-square convergence of the BDF2-Maruyama and backward Euler schemes for SDE with globally monotone coefficients, _BIT Numer. Math._ (2017).
 
-- A. Andersson, M. Kovács and S. Larsson, Weak error analysis for semilinear stochastic Volterra equations with additive noise,  _J. Math. Anal. Appl._ (2016), 1283--1304.
+- A. Andersson, M. Kovács and S. Larsson, Weak error analysis for semilinear stochastic Volterra equations with additive noise,  _J. Math. Anal. Appl._ (2016).
 
-- A. Andersson, R. Kruse and S. Larsson, Duality in refined Sobolev-Malliavin spaces and weak approximation of SPDE, _J. SPDE Anal. Comp._ (2016), 113--149.
+- A. Andersson, R. Kruse and S. Larsson, Duality in refined Sobolev-Malliavin spaces and weak approximation of SPDE, _J. SPDE Anal. Comp._ (2016).
 
-- A. Andersson and S. Larsson, Weak convergence for a spatial approximation of the nonlinear stochastic heat equation, _Math. Comp._ (2016), p. 1335--1358.
+- A. Andersson and S. Larsson, Weak convergence for a spatial approximation of the nonlinear stochastic heat equation, _Math. Comp._ (2016).
 
 ### Lecture notes
 - A. Andersson and P. Sjögren, [Ornstein-Uhlenbeck theory in finite dimensions](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf), Chalmers, 2012.
