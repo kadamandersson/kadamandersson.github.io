@@ -4,7 +4,7 @@ I am Adjunct Associate Professor in Computational Mathematics at the [Department
 
 A big part of my current research conserns deep learning accelerated numerical schemes for differential equations. Applications are in particular nonlinear filtering and control. The goal is to push the boundaries for what can be filtered or controlled in real time. I have an increasing interest in Bayesian methodology and compressive sensing. Also here acceleration is important, with neural networks or other methodology.
 
-In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. When I define new research topics I try to find synergies with my old research field.
+In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. 
 
 Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), [Google Scholar profile](https://scholar.google.se/citations?user=LzPSY_YAAAAJ&hl=sv) and [LinkedIn profile](https://www.linkedin.com/in/adam-andersson-61695462/).
 
