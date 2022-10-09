@@ -2,7 +2,7 @@
 
 I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and [University of Gothenburg](https://www.gu.se), and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
 
-A big part of my current research conserns deep learning accelerated numerical schemes for differential equations. Applications are in particular nonlinear filtering and control. The goal is to push the boundaries for what can be filtered or controlled in real time. I have an increasing interest in Bayesian methodology and compressive sensing. Also here acceleration is important, with neural networks or other methodology.
+A big part of my current research conserns deep learning accelerated numerical schemes for differential equations. Applications are in particular nonlinear filtering and control. The goal is to push the boundaries for what can be filtered or controlled in real time. I have an increasing interest in Bayesian methodology and compressive sensing. Also here acceleration is important, with neural networks or other methodology. Applications are connected to radar data processing. 
 
 In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. 
 
