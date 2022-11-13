@@ -86,7 +86,7 @@ E-mail: adam.andersson(at)chalmers.se
 - **Elias Hölen Hannouch** and **Oskar Holmstedt** [Deep learning accelerated Bayesian estimation for state space models](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf), Chalmers/Smartr. Elias and Oskar continued to work as developers at Ericsson.
 - **Anton Matsson** and **Victor Ohlsson** [Learning customer behavior with generative adversarial imitation learning](https://odr.chalmers.se/bitstream/20.500.12380/301319/1/Matsson_Olsson_2020.pdf), Chalmers/Smartr. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
 - **Axel Nathansson** [Exploration of reinforcement learning in radar scheduling](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf), Chalmers/Saab. Axel continued as algorithm developer at Tobii.
-- **Mika Persson** Towards deep learning accelerated sparse Bayesian frequency estimation, Lund University/Saab. Mika continued as a radar systems engineer at Saab.
+- **Mika Persson** [Towards deep learning accelerated sparse Bayesian frequency estimation](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9102407&fileOId=9102408), Lund University/Saab. Mika continued as a radar systems engineer at Saab.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
 - **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers.
 
