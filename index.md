@@ -93,11 +93,6 @@ E-mail: adam.andersson(at)chalmers.se
 
 
 
-### Future master thesis projects 
-
-If you would like to write your master thesis with me as supervisor, then please do not hessitate to contact me. I have project proposals for students interested in Bayesian statistics, stochastic analysis, signal processing and deep learning (no end-to-end). I have projects or can design projects on the scale from fully theoretical to fully practical/applied. Occationally I will be willing to supervise accademic projects, but I mainly supervise industrial projects for Saab at the Saab office in Kallebäck, Göteborg.
-
-
 ## Presentations on YouTube
 
 - Lecture for the appointment to associate professor 2020: [Riccati and Lyapunov equations for control and weak approximation of stochastic PDE](https://www.youtube.com/watch?v=VoePEMaH1X0&fbclid=IwAR31d7TRfh22S33A9Q331Z6dn3aEjDLL9tr3VTUff4bdLM2bqNXnrxvL88s), Chalmers.
