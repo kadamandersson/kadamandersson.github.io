@@ -78,8 +78,8 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Previous master thesis students
 
-- **Axel Nathansson** [Exploration of reinforcement learning in radar scheduling](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf), Chalmers/Saab. Axel continued as algorithm developer at Tobii.
 - **Mika Persson** [Towards deep learning accelerated sparse Bayesian frequency estimation](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9102407&fileOId=9102408), Lund University/Saab. Mika continued as a radar systems engineer at Saab.
+- **Axel Nathansson** [Exploration of reinforcement learning in radar scheduling](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf), Chalmers/Saab. Axel continued as algorithm developer at Tobii.
 - **Elias Hölen Hannouch** and **Oskar Holmstedt** [Deep learning accelerated Bayesian estimation for state space models](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf), Chalmers/Smartr. Elias and Oskar continued to work as developers at Ericsson.
 - **Anton Matsson** and **Victor Ohlsson** [Learning customer behavior with generative adversarial imitation learning](https://odr.chalmers.se/bitstream/20.500.12380/301319/1/Matsson_Olsson_2020.pdf), Chalmers/Smartr. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
 - **Klara Granbom** [On nonlinear machine learning methods for dose-response data in drug discovery](https://odr.chalmers.se/bitstream/20.500.12380/300963/1/Klara_Granbom_Master_Thesis.pdf), Chalmers/Smartr/IRLAB. Klara continued as a developer at Collector Bank. 
