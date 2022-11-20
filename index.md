@@ -60,7 +60,7 @@ E-mail: adam.andersson(at)chalmers.se
 - 2009-2015: [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), PhD student. 
 
 ### Degrees
-- 2021: Chalmers University of Technology, Associate Professor (Docent) in Computational Mathematics.
+- 2021: Chalmers University of Technology, Associate Professor (Oavlönad Docent) in Computational Mathematics.
 - 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
 - 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
 - 2006: Chalmers University of Technology, BSc in Automation and Mechatronics.
