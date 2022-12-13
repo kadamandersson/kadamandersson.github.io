@@ -89,7 +89,7 @@ E-mail: adam.andersson(at)chalmers.se
 - **Robin Andersson** [Sparse representation and image classification with the shearlet transform](https://odr.chalmers.se/bitstream/20.500.12380/251854/1/251854.pdf), Chalmers/Syntronic. Robin continued as algorithm developer at Syntronic.
 - **Viktor Blomqvist** and **David Lidberg** [Swedish dialect classification using artificial neural networks and Gaussian mixture models](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf), Chalmers/Syntronic. Viktor continued as algorithm developer at Syntronic and David as machine learning engineer at RaySearch Laborarories.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin. Leander continued as a consultant at Sopra Steria Consulting.
-- **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers. Yueleng continued to study a second master in statistics at the University of Windsdor.
+- **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers. Yueleng continued to study a second master in statistics at the University of Windsor.
 
 
 
