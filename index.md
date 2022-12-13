@@ -71,11 +71,11 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **Kasper Bågmark** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale much better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
 
-### Master student
+### Master students
 
 - **Karl Hammar** is working on Bayesian point of launch estimation for fast aerial vehicles. He is sampling the posterior with Partially Deterministic Markov Processes (PDMP). Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
 
-- **Albin Ekelund Karlsson** and **Samuel Sandelius** will be working on deep reinforcement learning for sensor resource management.
+- **Albin Ekelund Karlsson** and **Samuel Sandelius** will during the spring 2023 be working on deep reinforcement learning for sensor resource management.
 
 ### Previous master thesis students
 
