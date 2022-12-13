@@ -75,6 +75,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **Karl Hammar** is working on Bayesian point of launch estimation for fast aerial vehicles. He is sampling the posterior with Partially Deterministic Markov Processes (PDMP). Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
 
+- **Albin Ekelund Karlsson** and **Samuel Sandelius** will be working on deep reinforcement learning for sensor resource management.
 
 ### Previous master thesis students
 
