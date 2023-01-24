@@ -22,7 +22,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Accepted articles
 
-- K. Bågmark, A. Andersson, S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Equation and Applications_ [arXiv:2203.17153](https://arxiv.org/pdf/2203.17153.pdf), 20 pages.	
+- K. Bågmark, A. Andersson, S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Equation and Applications_ [arXiv:2203.17153](https://arxiv.org/pdf/2203.17153.pdf).	
 
 - K. Andersson, A. Andersson, C. W. Oosterlee, Convergence of a robust deep FBSDE method for stochastic control, _SIAM J. Sci. Comput._ [arXiv:2201.06854](https://arxiv.org/pdf/2201.06854.pdf).
 
@@ -75,7 +75,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **Karl Hammar** is working on Bayesian point of launch estimation for fast aerial vehicles. He is sampling the posterior with Partially Deterministic Markov Processes (PDMP). Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
 
-- **Albin Ekelund Karlsson** and **Samuel Sandelius** will during the spring 2023 be working on deep reinforcement learning for sensor resource management.
+- **Albin Ekelund Karlsson** and **Samuel Sandelius** are working on deep reinforcement learning for sensor resource management.
 
 ### Previous master thesis students
 
