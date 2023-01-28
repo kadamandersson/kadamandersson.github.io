@@ -1,6 +1,6 @@
 <img align = "left" style = "float:left; padding: 0px 20px 10px 0px" src="adamandersson.jpg" width="180">
 
-I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and [University of Gothenburg](https://www.gu.se), and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
+I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and [University of Gothenburg](https://www.gu.se), Specialist in Engineering Mathematics and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
 
 A big part of my current research conserns deep learning accelerated computational methods for nonlinear filtering and control. The goal is to push the boundaries for what can be filtered or controlled in real time. I have an increasing interest in Bayesian methodology, compressive sensing, radar signal processing and target tracking. 
 
