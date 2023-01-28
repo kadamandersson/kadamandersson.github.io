@@ -2,11 +2,11 @@
 
 I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and [University of Gothenburg](https://www.gu.se), Specialist in Engineering Mathematics and Senior Radar Systems Engineer at [Saab](https://www.saab.com). 
 
-My current research conserns deep learning accelerated computational methods for nonlinear filtering and control. The goal is to push the boundaries for what can be filtered or controlled in real time. I am steering my interest towards Bayesian methodology, radar signal processing and target tracking. 
+My current research conserns deep learning accelerated computational methods for nonlinear filtering and control. The goal is to push the boundaries for what can be filtered or controlled in real time. I am steering my interest towards Bayesian statistics, aspects of operations research, radar signal processing and target tracking. 
 
 In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. 
 
-In my specialist role at Saab I lead the development within the field of engineering mathematics in directions that I define. This consists in particular of investigating collaborations and funding oportunities for research studies or projects. 
+In my specialist role at Saab I lead the development within the field of engineering mathematics in specific directions that I define. This consists in particular of investigating collaborations and funding oportunities for research studies or projects. 
 
 Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), [Google Scholar profile](https://scholar.google.se/citations?user=LzPSY_YAAAAJ&hl=sv) and [LinkedIn profile](https://www.linkedin.com/in/adam-andersson-61695462/).
 
