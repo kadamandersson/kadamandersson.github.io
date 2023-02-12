@@ -18,15 +18,15 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Preprints and submitted articles	
 
-- A. Andersson, A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs, [arXiv:1910.05261](https://arxiv.org/pdf/1910.05261.pdf), 37 pages.	
+- A. Andersson, A. Lang, A. Pettersson and L. Schroer, [Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs](https://arxiv.org/pdf/1910.05261.pdf).	
 	
-- A. Andersson and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, [arXiv:1703.07259](https://arxiv.org/pdf/1703.07259.pdf), 48 pages.
+- A. Andersson and F. Lindner, [Poisson Malliavin calculus in Hilbert space with an application to SPDE](https://arxiv.org/pdf/1703.07259.pdf).
 
 ### Accepted articles
 
-- K. Bågmark, A. Andersson, S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ [arXiv:2203.17153](https://arxiv.org/pdf/2203.17153.pdf).	
+- K. Bågmark, A. Andersson, S. Larsson, [An energy-based deep splitting method for the nonlinear filtering problem](https://arxiv.org/pdf/2203.17153.pdf), _Partial Differential Eq. Appl._.	
 
-- K. Andersson, A. Andersson, C. W. Oosterlee, Convergence of a robust deep FBSDE method for stochastic control, _SIAM J. Sci. Comput._ [arXiv:2201.06854](https://arxiv.org/pdf/2201.06854.pdf).
+- K. Andersson, A. Andersson, C. W. Oosterlee, [Convergence of a robust deep FBSDE method for stochastic control](https://arxiv.org/pdf/2201.06854.pdf), _SIAM J. Sci. Comput._.
 
 ### Journal articles
 
