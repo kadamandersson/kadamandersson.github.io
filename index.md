@@ -18,9 +18,9 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Preprints and submitted articles	
 
-- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs, 2019, [PDF](https://arxiv.org/pdf/1910.05261.pdf).	
+- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs, 2019. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
 	
-- A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017, [PDF](https://arxiv.org/pdf/1703.07259.pdf).
+- A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017. [PDF](https://arxiv.org/pdf/1703.07259.pdf)
 
 ### Accepted articles
 
@@ -30,24 +30,24 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Journal articles
 
-- A. A., A. Jentzen and R. Kurniawan, Existence uniquness and regularity for stochastic evolution equations with irregular initial values, _J. Math. Anal. and Appl._ (2021).
+- A. A., A. Jentzen and R. Kurniawan, Existence uniquness and regularity for stochastic evolution equations with irregular initial values, _J. Math. Anal. and Appl._ (2021). [PDF](https://arxiv.org/pdf/1512.06899.pdf)
 
-- A. A. and F. Lindner, Malliavin regularity and weak approximation of semilinear SPDE with Lévy noise, _Discrete Continuous Dyn. Syst. Ser. B._ (2019).
+- A. A. and F. Lindner, Malliavin regularity and weak approximation of semilinear SPDE with Lévy noise, _Discrete Continuous Dyn. Syst. Ser. B._ (2019). [PDF](https://arxiv.org/pdf/1808.08574.pdf)
 
-- A. A., M. Hefter, A. Jentzen and R. Kurniawan, Regularity properties for solutions of infinite dimensional Kolmogorov equations in Hilbert spaces, _Potential Anal._ (2019).
+- A. A., M. Hefter, A. Jentzen and R. Kurniawan, Regularity properties for solutions of infinite dimensional Kolmogorov equations in Hilbert spaces, _Potential Anal._ (2019). [PDF](https://link.springer.com/article/10.1007/s11118-018-9685-7)
 
-- A. A., A. Jentzen, R. Kurniawan and T. Welti, On the differentiability of solutions of stochastic evolution equations with respect to their initial values, _Nonlinear Anal._ (2017).
+- A. A., A. Jentzen, R. Kurniawan and T. Welti, On the differentiability of solutions of stochastic evolution equations with respect to their initial values, _Nonlinear Anal._ (2017). [PDF](https://arxiv.org/pdf/1611.00856.pdf)
 
-- A. A. and R. Kruse, Mean-square convergence of the BDF2-Maruyama and backward Euler schemes for SDE with globally monotone coefficients, _BIT Numer. Math._ (2017).
+- A. A. and R. Kruse, Mean-square convergence of the BDF2-Maruyama and backward Euler schemes for SDE with globally monotone coefficients, _BIT Numer. Math._ (2017). [PDF](https://link.springer.com/content/pdf/10.1007/s10543-016-0624-y.pdf)
 
-- A. A., M. Kovács and S. Larsson, Weak error analysis for semilinear stochastic Volterra equations with additive noise,  _J. Math. Anal. Appl._ (2016).
+- A. A., M. Kovács and S. Larsson, Weak error analysis for semilinear stochastic Volterra equations with additive noise,  _J. Math. Anal. Appl._ (2016). [PDF](https://www.sciencedirect.com/science/article/pii/S0022247X1500832X)
 
-- A. A., R. Kruse and S. Larsson, Duality in refined Sobolev-Malliavin spaces and weak approximation of SPDE, _J. SPDE Anal. Comp._ (2016).
+- A. A., R. Kruse and S. Larsson, Duality in refined Sobolev-Malliavin spaces and weak approximation of SPDE, _J. SPDE Anal. Comp._ (2016). [PDF](https://arxiv.org/pdf/1312.5893.pdf)
 
-- A. A. and S. Larsson, Weak convergence for a spatial approximation of the nonlinear stochastic heat equation, _Math. Comp._ (2016).
+- A. A. and S. Larsson, Weak convergence for a spatial approximation of the nonlinear stochastic heat equation, _Math. Comp._ (2016). [PDF](https://arxiv.org/pdf/1212.5564.pdf)
 
 ### Lecture notes
-- A. A. and P. Sjögren, [Ornstein-Uhlenbeck theory in finite dimensions](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf), Chalmers, 2012.
+- A. A. and P. Sjögren, Ornstein-Uhlenbeck theory in finite dimensions, Chalmers, 2012. [PDF](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf)
 
 
 ## Bio
