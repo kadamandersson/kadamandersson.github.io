@@ -34,7 +34,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 - A. A. and F. Lindner, Malliavin regularity and weak approximation of semilinear SPDE with Lévy noise, _Discrete Continuous Dyn. Syst. Ser. B._ (2019). [PDF](https://arxiv.org/pdf/1808.08574.pdf)
 
-- A. A., M. Hefter, A. Jentzen and R. Kurniawan, Regularity properties for solutions of infinite dimensional Kolmogorov equations in Hilbert spaces, _Potential Anal._ (2019). [PDF](https://link.springer.com/article/10.1007/s11118-018-9685-7)
+- A. A., M. Hefter, A. Jentzen and R. Kurniawan, Regularity properties for solutions of infinite dimensional Kolmogorov equations in Hilbert spaces, _Potential Anal._ (2019). [PDF](https://arxiv.org/pdf/1611.00858.pdf)
 
 - A. A., A. Jentzen, R. Kurniawan and T. Welti, On the differentiability of solutions of stochastic evolution equations with respect to their initial values, _Nonlinear Anal._ (2017). [PDF](https://arxiv.org/pdf/1611.00856.pdf)
 
