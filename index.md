@@ -26,9 +26,9 @@ E-mail: adam.andersson(at)chalmers.se
 
 - K. Bågmark, A. A., S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ (2023). [PDF](https://arxiv.org/pdf/2203.17153.pdf)	
 
-- K. Andersson, A. A., C. W. Oosterlee, Convergence of a robust deep FBSDE method for stochastic control, _SIAM J. Sci. Comput._ (2023). [PDF](https://arxiv.org/pdf/2201.06854.pdf)
-
 ### Journal articles
+
+- K. Andersson, A. A., C. W. Oosterlee, Convergence of a robust deep FBSDE method for stochastic control, _SIAM J. Sci. Comput._ (2023). [PDF](https://arxiv.org/pdf/2201.06854.pdf)
 
 - A. A., A. Jentzen and R. Kurniawan, Existence uniquness and regularity for stochastic evolution equations with irregular initial values, _J. Math. Anal. and Appl._ (2021). [PDF](https://arxiv.org/pdf/1512.06899.pdf)
 
