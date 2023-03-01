@@ -16,12 +16,6 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Publications
 
-### Preprints and submitted articles	
-
-- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs, 2019. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
-	
-- A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017. [PDF](https://arxiv.org/pdf/1703.07259.pdf)
-
 ### Accepted articles
 
 - K. Bågmark, A. A., S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ (2023). [PDF](https://arxiv.org/pdf/2203.17153.pdf)	
@@ -45,6 +39,12 @@ E-mail: adam.andersson(at)chalmers.se
 - A. A., R. Kruse and S. Larsson, Duality in refined Sobolev-Malliavin spaces and weak approximation of SPDE, _J. SPDE Anal. Comp._ (2016). [PDF](https://arxiv.org/pdf/1312.5893.pdf)
 
 - A. A. and S. Larsson, Weak convergence for a spatial approximation of the nonlinear stochastic heat equation, _Math. Comp._ (2016). [PDF](https://arxiv.org/pdf/1212.5564.pdf)
+
+### Preprints and submitted articles	
+
+- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs, 2019. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
+	
+- A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017. [PDF](https://arxiv.org/pdf/1703.07259.pdf)
 
 ### Lecture notes
 - A. A. and P. Sjögren, Ornstein-Uhlenbeck theory in finite dimensions, Chalmers, 2012. [PDF](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf)
