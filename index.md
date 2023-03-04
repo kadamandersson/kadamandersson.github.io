@@ -106,6 +106,10 @@ E-mail: adam.andersson(at)chalmers.se
 - Gothenburg Artificial Intelligence Alliance MeetUp 2018: [Deep learning for equation solving and technical computations](https://www.youtube.com/watch?v=B9ugHg9Sy6g).
 
 
+## Recreation
+
+- [Älv, Bååth & Andersson](https://www.youtube.com/watch?v=2eacsONAWeg). A film by my paddling friend Jacob Kasprup Haagensen about a trip in the Vistas river in 2020. Shown at the Nordic Adventure Film Festival in Copenhagen 2022.
+
 <!---
 
 
