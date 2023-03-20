@@ -16,11 +16,10 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Publications
 
-### Accepted articles
-
-- K. Bågmark, A. A., S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ (2023). [PDF](https://arxiv.org/pdf/2203.17153.pdf)	
 
 ### Journal articles
+
+- K. Bågmark, A. A., S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ (2023). [PDF](https://arxiv.org/pdf/2203.17153.pdf)
 
 - K. Andersson, A. A., C. W. Oosterlee, Convergence of a robust deep FBSDE method for stochastic control, _SIAM J. Sci. Comput._ (2023). [PDF](https://arxiv.org/pdf/2201.06854.pdf)
 
