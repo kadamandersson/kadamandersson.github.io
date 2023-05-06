@@ -81,7 +81,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Previous master thesis students
 
-- **Karl Hammar** Fast Bayesian Inference with Piecewise Deterministic Markov Processes - Estimation of latent parameters of an adversarial missile, Chalmers/Saab. Karl continued as a radar system engineer at Saab.
+- **Karl Hammar** Fast Bayesian Inference with Piecewise Deterministic Markov Processes, Chalmers/Saab. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. Karl continued as a radar system engineer at Saab.
 - **Mika Persson** [Towards deep learning accelerated sparse Bayesian frequency estimation](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9102407&fileOId=9102408), Lund University/Saab. Mika continued as a radar systems engineer at Saab.
 - **Axel Nathansson** [Exploration of reinforcement learning in radar scheduling](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf), Chalmers/Saab. Axel continued as algorithm developer at Tobii.
 - **Elias Hölen Hannouch** and **Oskar Holmstedt** [Deep learning accelerated Bayesian estimation for state space models](https://odr.chalmers.se/bitstream/20.500.12380/301661/1/Master_s_Thesis_Elias_Oskar_.pdf), Chalmers/Smartr. Elias and Oskar continued to work as developers at Ericsson.
