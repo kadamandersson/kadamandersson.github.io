@@ -75,9 +75,9 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Master students
 
-- **Emma Jansson** from KTH is working on statistics for SDE in a sea clutter context. Jointly supervised with [Alexander Lindmaa](https://scholar.google.com/citations?user=4lrP9yoAAAAJ&hl=en) at Saab.
+- **Emma Jansson** is working on statistics for SDE in a sea clutter context. Jointly supervised with [Alexander Lindmaa](https://scholar.google.com/citations?user=4lrP9yoAAAAJ&hl=en) at Saab.
 
-- **Albin Ekelund Karlsson** and **Samuel Sandelius** from Chalmers are working on deep reinforcement learning for sensor resource management.
+- **Albin Ekelund Karlsson** and **Samuel Sandelius** are working on deep reinforcement learning for sensor resource management.
 
 ### Previous master thesis students
 
