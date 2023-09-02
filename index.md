@@ -69,6 +69,8 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
+**ATTENTION STUDENTS!** We are currently looking for one or two students for an [academic master thesis project](https://bagmark.files.wordpress.com/2023/09/masterthesis_proposal_deeplearningfiltering.pdf) on Bayesian filtering using the so called deep splitting method. The project requires some familiarity with stochastic analysis, Bayesian statistics and deep learning. 
+
 ### PhD student
 
 - **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
