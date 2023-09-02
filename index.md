@@ -77,7 +77,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Master students
 
-- **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** will work on optimal transport for fast evaluation of target tracking algorithms. Jointly supervised with [Axel Ringh](https://sites.google.com/view/axelringh/home) at Chalmers.
+- **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** will work on optimal transport for fast evaluation of target tracking algorithms. Jointly supervised with Per Ljung at Saab and [Axel Ringh](https://sites.google.com/view/axelringh/home) at Chalmers.
 - **Emma Jansson** is working on statistics for SDE in a sea clutter context. Jointly supervised with [Alexander Lindmaa](https://scholar.google.com/citations?user=4lrP9yoAAAAJ&hl=en) at Saab.
 
 ### Previous master thesis students
