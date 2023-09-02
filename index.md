@@ -69,7 +69,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-**MASTER THESIS FOR 2024:** We are currently looking for one or two students for an [academic master thesis project](https://bagmark.files.wordpress.com/2023/09/masterthesis_proposal_deeplearningfiltering.pdf) on Bayesian filtering using the so called deep splitting method. The project requires some familiarity with stochastic analysis, Bayesian statistics and deep learning. 
+**MASTER THESIS FOR 2024:** We are currently looking for one or two students for an [academic master thesis project](https://bagmark.files.wordpress.com/2023/09/masterthesis_proposal_deeplearningfiltering.pdf) on Bayesian filtering using the so called deep splitting method. The project requires some familiarity with stochastic analysis, Bayesian statistics and deep learning. Jointly supervised with [Kasper Bågmark](https://bagmark.wordpress.com).
 
 ### PhD student
 
