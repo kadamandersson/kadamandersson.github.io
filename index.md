@@ -81,7 +81,7 @@ E-mail: adam.andersson(at)chalmers.se
 - **Emma Jansson** is working on statistics for SDE in a sea clutter context. Jointly supervised with [Alexander Lindmaa](https://scholar.google.com/citations?user=4lrP9yoAAAAJ&hl=en) at Saab.
 
 ### Previous master thesis students
-- **Albin Ekelund Karlsson** and **Samuel Sandelius** Adaptive radar illuminations with deep reinforcement learning, Chalmers/Saab. Albin continued as a ... and Samuel as a radar simulator developer at Saab.
+- **Albin Ekelund Karlsson** and **Samuel Sandelius** [Adaptive radar illuminations with deep reinforcement learning](https://odr.chalmers.se/items/1b90dc2b-27e2-42e8-af0f-6e5f4acedacf), Chalmers/Saab. Albin continued as a ... and Samuel as a radar simulator developer at Saab.
 - **Karl Hammar** [Fast Bayesian Inference with Piecewise Deterministic Markov Processes](https://odr.chalmers.se/server/api/core/bitstreams/177fa67a-1165-4037-8494-d13f7ccefb70/content), Chalmers/Saab. Karl continued as a radar system engineer at Saab.
 - **Mika Persson** [Towards deep learning accelerated sparse Bayesian frequency estimation](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9102407&fileOId=9102408), Lund University/Saab. Mika continued as a radar systems engineer at Saab.
 - **Axel Nathansson** [Exploration of reinforcement learning in radar scheduling](https://odr.chalmers.se/bitstream/20.500.12380/304144/1/MasterTHesis%20Axel%20Nathanson.pdf), Chalmers/Saab. Axel continued as algorithm developer at Tobii.
