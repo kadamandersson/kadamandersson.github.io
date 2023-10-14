@@ -80,6 +80,16 @@ parameters for radar, a stochastic approach. KTH/Saab. Jointly supervised with [
 - **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers. Yueleng continued to study a second master in statistics at the University of Windsor.
 
 
+
+## Presentations on YouTube
+
+- Lecture for the appointment to associate professor 2020: [Riccati and Lyapunov equations for control and weak approximation of stochastic PDE](https://www.youtube.com/watch?v=VoePEMaH1X0&fbclid=IwAR31d7TRfh22S33A9Q331Z6dn3aEjDLL9tr3VTUff4bdLM2bqNXnrxvL88s), Chalmers.
+
+- Gothenburg Artificial Intelligence Alliance 2020 conference: [Removing computational bottlenecks with deep learning](https://www.youtube.com/watch?v=hQBFStGj_jA).
+
+- Gothenburg Artificial Intelligence Alliance MeetUp 2018: [Deep learning for equation solving and technical computations](https://www.youtube.com/watch?v=B9ugHg9Sy6g).
+
+
 ## Bio
 
 ### Positions
@@ -97,15 +107,6 @@ parameters for radar, a stochastic approach. KTH/Saab. Jointly supervised with [
 - 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
 - 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
 - 2006: Chalmers University of Technology, BSc in Automation and Mechatronics.
-
-## Presentations on YouTube
-
-- Lecture for the appointment to associate professor 2020: [Riccati and Lyapunov equations for control and weak approximation of stochastic PDE](https://www.youtube.com/watch?v=VoePEMaH1X0&fbclid=IwAR31d7TRfh22S33A9Q331Z6dn3aEjDLL9tr3VTUff4bdLM2bqNXnrxvL88s), Chalmers.
-
-- Gothenburg Artificial Intelligence Alliance 2020 conference: [Removing computational bottlenecks with deep learning](https://www.youtube.com/watch?v=hQBFStGj_jA).
-
-- Gothenburg Artificial Intelligence Alliance MeetUp 2018: [Deep learning for equation solving and technical computations](https://www.youtube.com/watch?v=B9ugHg9Sy6g).
-
 
 ## Recreation
 
