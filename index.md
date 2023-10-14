@@ -49,23 +49,6 @@ E-mail: adam.andersson(at)chalmers.se
 - A. A. and P. Sjögren, Ornstein-Uhlenbeck theory in finite dimensions, Chalmers, 2012. [PDF](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf)
 
 
-## Bio
-
-### Positions
-
-- 2023-ongoing:  [Saab](https://www.saab.com/products/air/airborne-surveillance), Specialist in Engineering Mathematics.
-- 2021-ongoing:  [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), Adjunct Associate Professor.
-- 2020-2022:  [Saab](https://www.saab.com/products/air/airborne-surveillance), Radar Systems Engineer.
-- 2019-2020: [Smartr](https://smartr.se), Chief Scientist and consultant.
-- 2016-2019: [Syntronic](https://www.syntronic.com), Team Leader and consultant.
-- 2015-2016: [TU Berlin](https://www.tu-berlin.de/?9003), Postdoctoral researcher.
-- 2009-2015: [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), PhD student. 
-
-### Degrees
-- 2021: Chalmers University of Technology, Associate Professor (Oavlönad Docent) in Computational Mathematics.
-- 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
-- 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
-- 2006: Chalmers University of Technology, BSc in Automation and Mechatronics.
 
 ## Supervision
 
@@ -97,7 +80,23 @@ parameters for radar, a stochastic approach. KTH/Saab. Jointly supervised with [
 - **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers. Yueleng continued to study a second master in statistics at the University of Windsor.
 
 
+## Bio
 
+### Positions
+
+- 2023-ongoing:  [Saab](https://www.saab.com/products/air/airborne-surveillance), Specialist in Engineering Mathematics.
+- 2021-ongoing:  [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), Adjunct Associate Professor.
+- 2020-2022:  [Saab](https://www.saab.com/products/air/airborne-surveillance), Radar Systems Engineer.
+- 2019-2020: [Smartr](https://smartr.se), Chief Scientist and consultant.
+- 2016-2019: [Syntronic](https://www.syntronic.com), Team Leader and consultant.
+- 2015-2016: [TU Berlin](https://www.tu-berlin.de/?9003), Postdoctoral researcher.
+- 2009-2015: [Chalmers University of Technology](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx), PhD student. 
+
+### Degrees
+- 2021: Chalmers University of Technology, Associate Professor (Oavlönad Docent) in Computational Mathematics.
+- 2015: Chalmers University of Technology, PhD in Mathematics. [Thesis](PhD_thesis.pdf)
+- 2009: Chalmers University of Technology, MSc in Engineering Mathematics. [Thesis](master_thesis.pdf)
+- 2006: Chalmers University of Technology, BSc in Automation and Mechatronics.
 
 ## Presentations on YouTube
 
