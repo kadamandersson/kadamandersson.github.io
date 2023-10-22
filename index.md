@@ -61,10 +61,10 @@ E-mail: adam.andersson(at)chalmers.se
 ### Master students
 
 - **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** will work on optimal transport for fast evaluation of target tracking algorithms. Jointly supervised with Per Ljung at Saab and [Axel Ringh](https://sites.google.com/view/axelringh/home) at Chalmers.
-- **Emma Jansson** Bayesian estimation of sea clutter
-parameters for radar, a stochastic approach. KTH/Saab. Jointly supervised with [Alexander Lindmaa](https://scholar.google.com/citations?user=4lrP9yoAAAAJ&hl=en) at Saab.
 
 ### Previous master thesis students
+- **Emma Jansson** Bayesian estimation of sea clutter
+parameters for radar, a stochastic approach. KTH/Saab.
 - **Albin Ekelund Karlsson** and **Samuel Sandelius** [Adaptive radar illuminations with deep reinforcement learning](https://odr.chalmers.se/server/api/core/bitstreams/5c3ae2ce-cf71-4ebf-8541-7c08f36def56/content), Chalmers/Saab. Albin continued as a consultant at AFRY and Samuel as a radar simulator developer at Saab.
 - **Karl Hammar** [Fast Bayesian Inference with Piecewise Deterministic Markov Processes](https://odr.chalmers.se/server/api/core/bitstreams/177fa67a-1165-4037-8494-d13f7ccefb70/content), Chalmers/Saab. Karl continued as a radar system engineer at Saab.
 - **Mika Persson** [Towards deep learning accelerated sparse Bayesian frequency estimation](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9102407&fileOId=9102408), Lund University/Saab. Mika continued as a radar systems engineer at Saab.
