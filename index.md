@@ -52,8 +52,6 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-**MASTER THESIS FOR 2024:** We are currently looking for one or two students for an [academic master thesis project](https://bagmark.files.wordpress.com/2023/09/masterthesis_proposal_deeplearningfiltering.pdf) on Bayesian filtering using the so called deep splitting method. The project requires some familiarity with stochastic analysis, Bayesian statistics and deep learning. Jointly supervised with [Kasper Bågmark](https://bagmark.wordpress.com).
-
 ### PhD student
 
 - **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
@@ -61,6 +59,12 @@ E-mail: adam.andersson(at)chalmers.se
 ### Master students
 
 - **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** will work on optimal transport for fast evaluation of target tracking algorithms. Jointly supervised with Per Ljung at Saab and [Axel Ringh](https://sites.google.com/view/axelringh/home) at Chalmers.
+
+- **Isak Wikman** and **Samuel Winqvist** will work on joint model and state estimation with neural SDE models. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab and [Moritz Schauer](https://mschauer.eu) at Chalmers.
+
+- **Gabriel Shafiq Ahlgren** and **Oliver Spjuth** will work on transformer based target tracking. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
+
+- **Filip Rydin** will work on nonlinear Bayesian filtering using the deep splitting method. Jointly supervised with [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers. 
 
 ### Previous master thesis students
 - **Emma Jansson** Bayesian estimation of sea clutter
