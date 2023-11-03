@@ -62,7 +62,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **Isak Wikman** and **Samuel Winqvist** will work on joint model and state estimation with neural SDE models. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab and [Moritz Schauer](https://mschauer.eu) at Chalmers.
 
-- **Gabriel Shafiq Ahlgren** and **Oliver Spjuth** will work on transformer based target tracking. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
+- **Gabriel Shafiq Ahlgren** and **Oliver Spjuth** will work on transformer based target tracking. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab and [Lennart Svensson](https://www.chalmers.se/personer/pale/) at Chalmers.
 
 - **Filip Rydin** will work on nonlinear Bayesian filtering using the deep splitting method. Jointly supervised with [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers. 
 
