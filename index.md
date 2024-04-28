@@ -67,7 +67,15 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Previous master thesis students
 
-<!-- sdfsdf -->
+<!-- 
+
+- **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** are working on optimal transport for fast evaluation of target tracking algorithms. Jointly supervised with Per Ljung at Saab and [Axel Ringh](https://sites.google.com/view/axelringh/home) at Chalmers.
+
+- **Isak Wikman** and **Samuel Winqvist** are working on joint model and state estimation with neural SDE models. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
+
+- **Filip Rydin** is working on nonlinear Bayesian filtering using the deep splitting method. Jointly supervised with [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers. 
+
+-->
 
 - **Emma Öijar Jansson** Bayesian estimation of sea clutter
 parameters for radar, a stochastic approach. KTH/Saab. Emma continued as a data scientist at ICA Sverige. 
