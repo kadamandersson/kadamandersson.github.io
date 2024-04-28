@@ -40,6 +40,15 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Preprints and submitted articles	
 
+<!--
+- K. Bågmark, A. A., F. Ryding, S. Larsson, Filtering with discrete observations using energy-based deep splitting, 2024. [PDF](https://arxiv.org/pdf/2203.17153.pdf)
+
+- K. Andersson, A. A., C. W. Oosterlee, A robust deep FBSDE method for general FBSDE, 2024. [PDF](https://arxiv.org/pdf/2201.06854.pdf)
+
+- A. A., S. Larsson, Riccati equations for the boundary control and filtering of SPDE: solution theory, 2024. [PDF](https://arxiv.org/pdf/2201.06854.pdf)
+
+-->
+
 - A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs, 2019. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
 	
 - A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017. [PDF](https://arxiv.org/pdf/1703.07259.pdf)
@@ -69,12 +78,13 @@ E-mail: adam.andersson(at)chalmers.se
 
 <!-- 
 
-- **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** are working on optimal transport for fast evaluation of target tracking algorithms. Jointly supervised with Per Ljung at Saab and [Axel Ringh](https://sites.google.com/view/axelringh/home) at Chalmers.
+- **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** Optimal transport for fast evaluation of the GOSPA metric in target tracking algorithms. Chalmers/Saab. Alfred continued as a PhD student in optimization at KTH and Viktor as a PhD student in radar signal processing at Chalmers (in colaboration with Saab).
 
-- **Isak Wikman** and **Samuel Winqvist** are working on joint model and state estimation with neural SDE models. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
+- **Isak Wikman** and **Samuel Winqvist** State estimation with neural SDE models. Chalmers/Saab. Isak continued as TODO at TODO and Samuel as TODO at TODO.
 
-- **Filip Rydin** is working on nonlinear Bayesian filtering using the deep splitting method. Jointly supervised with [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers. 
+- **Oliver Spjuth** Target tracking with sparse transformers. Chalmers/Saab. Oliver Continued as TODO at TODO. 
 
+- **Filip Rydin** Nonlinear Bayesian filtering using the deep splitting method. Chalmers. Filip continued as a PhD student in AI and optimal control at Chalmers. 
 -->
 
 - **Emma Öijar Jansson** Bayesian estimation of sea clutter
