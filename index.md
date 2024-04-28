@@ -16,7 +16,6 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Publications
 
-
 ### Journal articles
 
 - K. Bågmark, A. A., S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ (2023). [PDF](https://arxiv.org/pdf/2203.17153.pdf)
@@ -67,6 +66,9 @@ E-mail: adam.andersson(at)chalmers.se
 - **Filip Rydin** is working on nonlinear Bayesian filtering using the deep splitting method. Jointly supervised with [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers. 
 
 ### Previous master thesis students
+
+<!-- sdfsdf -->
+
 - **Emma Öijar Jansson** Bayesian estimation of sea clutter
 parameters for radar, a stochastic approach. KTH/Saab. Emma continued as a data scientist at ICA Sverige. 
 - **Albin Ekelund Karlsson** and **Samuel Sandelius** [Adaptive radar illuminations with deep reinforcement learning](https://odr.chalmers.se/server/api/core/bitstreams/5c3ae2ce-cf71-4ebf-8541-7c08f36def56/content), Chalmers/Saab. Albin continued as a consultant at AFRY and Samuel as a radar simulator developer at Saab.
