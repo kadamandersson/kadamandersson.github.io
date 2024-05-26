@@ -62,7 +62,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Looking for master students with strong interest in stochastic analysis
 
-[Numerical methods for stochastic differential games](https://www.saab.com/career/job-opportunities/master-thesis-30-hp--djupinlarningslosningar-till-stokastiska-differentialspel-for-distribuerad-styrning-av-multi-agent-system1). 
+[Deep fictious play for stochastic differential games, theory and computations](https://www.saab.com/career/job-opportunities/master-thesis-30-hp--djupinlarningslosningar-till-stokastiska-differentialspel-for-distribuerad-styrning-av-multi-agent-system1). 
 
 ### PhD student
 
