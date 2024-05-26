@@ -60,6 +60,10 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
+### Looking for master students with strong interest in stochastic analysis
+
+[Numerical methods for stochastic differential games](https://www.saab.com/career/job-opportunities/master-thesis-30-hp--djupinlarningslosningar-till-stokastiska-differentialspel-for-distribuerad-styrning-av-multi-agent-system1). 
+
 ### PhD student
 
 - **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
