@@ -64,11 +64,11 @@ E-mail: adam.andersson(at)chalmers.se
 
 [Deep fictious play for stochastic differential games, theory and computations](https://www.saab.com/career/job-opportunities/master-thesis-30-hp--djupinlarningslosningar-till-stokastiska-differentialspel-for-distribuerad-styrning-av-multi-agent-system1). 
 
-### PhD student
+### PhD students
 
-- **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program (WASP). Kasper belongs to the mathematics for AI research school. He started in August 2020.
+- **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program (WASP). Kasper belongs to the mathematics for AI research school. He started in August 2020. Jointly supervised with [Stig Larsson](https://www.math.chalmers.se/~stig/). I act main supervisor. 
 
-- **Mika Persson** will from September 2024 work on distributed control of autonomous multi-function sensors. It is an industrial PhD position funded by WASP within the WASP Research Arena in Public Safety (WARA-PS). 
+- **Mika Persson** will from September 2024 work on distributed control of autonomous multi-function sensors. It is an industrial PhD position funded by WASP within the WASP Research Arena in Public Safety (WARA-PS). Jointly supervised with [Axel Ringh](https://sites.google.com/view/axelringh/home) and [Ann-Brith Strömberg](https://research.chalmers.se/person/anstr) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. I defined the project and acts industrial supervisor.
 
 ### Master students
 
