@@ -68,7 +68,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 - **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program (WASP). Jointly supervised with [Stig Larsson](https://www.math.chalmers.se/~stig/). I act main supervisor. 
 
-- **Mika Persson** will from September 2024 work on distributed control of autonomous multi-function sensors. It is an industrial PhD position funded by WASP within the WASP Research Arena in Public Safety (WARA-PS). Jointly supervised with [Axel Ringh](https://sites.google.com/view/axelringh/home) and [Ann-Brith Strömberg](https://research.chalmers.se/person/anstr) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. I defined the project and acts industrial supervisor.
+- **Mika Persson** will from September 2024 work on distributed control of autonomous multi-function sensors. It is an industrial PhD position funded by WASP within the WASP Research Arena in Public Safety (WARA-PS). Jointly supervised with [Axel Ringh](https://sites.google.com/view/axelringh/home) and [Ann-Brith Strömberg](https://research.chalmers.se/person/anstr) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. I defined the project and act industrial supervisor.
 
 ### Master students
 
