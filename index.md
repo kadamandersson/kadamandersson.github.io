@@ -66,7 +66,9 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### PhD student
 
-- **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program. Kasper belongs to the mathematics for AI research school. He started in August 2020.
+- **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program (WASP). Kasper belongs to the mathematics for AI research school. He started in August 2020.
+
+- **Mika Persson** will from September 2024 work on distributed control of autonomous multi-function sensors. It is an industrial PhD position funded by WASP within the WASP Research Arena in Public Safety (WARA-PS). 
 
 ### Master students
 
