@@ -84,14 +84,17 @@ E-mail: adam.andersson(at)chalmers.se
 
 <!-- 
 
-- **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** Optimal transport for fast evaluation of the GOSPA metric in target tracking algorithms. Chalmers/Saab. Alfred continued as a PhD student in optimization at KTH and Viktor as a radar system engineer at Saab.
-
-- **Isak Wikman** and **Samuel Winqvist** State estimation with neural SDE models. Chalmers/Saab. Isak is finnishing the last courses of his master and Samuel continued as TODO at Thunderkick.
-
 - **Oliver Spjuth** Target tracking with sparse transformers. Chalmers/Saab. Oliver Continued as target tracking analyst at Saab. 
 
-- **Filip Rydin** Nonlinear Bayesian filtering using the deep splitting method. Chalmers. Filip continued as a PhD student in AI and optimal control at Chalmers. 
+- **Isak Wikman** and **Samuel Winqvist** Prospects of neural SDE for Bayesian smoothing. Chalmers/Saab. Isak is finnishing the last courses of his master and Samuel continued as TODO at Thunderkick.
+ 
 -->
+
+
+
+- **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** Efficient evaluation of target tracking using entropic optimal transport. Chalmers/Saab. Alfred continued as a PhD student in optimization at KTH and Viktor as a radar system engineer at Saab.
+
+- **Filip Rydin** A deep learning method for nonlinear stochastic filtering. Chalmers. Filip continued as a PhD student in AI and optimal control at Chalmers.
 
 - **Emma Öijar Jansson** [Bayesian estimation of sea clutter
 parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/get/diva2:1859981/FULLTEXT01.pdf). KTH/Saab 2023. Emma continued as a data scientist at ICA Sverige. 
