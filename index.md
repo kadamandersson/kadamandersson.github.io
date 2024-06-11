@@ -72,8 +72,6 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Master students
 
-- **Isak Wikman** and **Samuel Winqvist** are working on joint model and state estimation with neural SDE models. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
-
 - **Oliver Spjuth** is working on transformer based target tracking. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab and [Lennart Svensson](https://www.chalmers.se/personer/pale/) at Chalmers.
 
 ### Previous master thesis students
@@ -81,8 +79,6 @@ E-mail: adam.andersson(at)chalmers.se
 <!-- 
 
 - **Oliver Spjuth** Target tracking with sparse transformers. Chalmers/Saab. Oliver Continued as target tracking analyst at Saab. 
-
-- **Isak Wikman** and **Samuel Winqvist** Prospects of neural SDE for Bayesian smoothing. Chalmers/Saab. Isak is finnishing the last courses of his master and Samuel continued as TODO at Thunderkick.
  
 -->
 
@@ -91,6 +87,8 @@ E-mail: adam.andersson(at)chalmers.se
 - **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** Efficient evaluation of target tracking using entropic optimal transport. Chalmers/Saab. Alfred continued as a PhD student in optimization at KTH and Viktor as a radar system engineer at Saab.
 
 - **Filip Rydin** A deep learning method for nonlinear stochastic filtering. Chalmers. Filip continued as a PhD student in AI and optimal control at Chalmers.
+
+- **Isak Wikman** and **Samuel Winqvist** Prospects of neural SDE for Bayesian smoothing. Chalmers/Saab. Isak is finnishing the last courses of his master and Samuel continued as data scientist at Thunderkick.
 
 - **Emma Öijar Jansson** [Bayesian estimation of sea clutter
 parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/get/diva2:1859981/FULLTEXT01.pdf). KTH/Saab 2023. Emma continued as a data scientist at ICA Sverige. 
