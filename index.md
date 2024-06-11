@@ -72,13 +72,9 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Master students
 
-- **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** are working on optimal transport for fast evaluation of target tracking algorithms. Jointly supervised with Per Ljung at Saab and [Axel Ringh](https://sites.google.com/view/axelringh/home) at Chalmers.
-
 - **Isak Wikman** and **Samuel Winqvist** are working on joint model and state estimation with neural SDE models. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
 
 - **Oliver Spjuth** is working on transformer based target tracking. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab and [Lennart Svensson](https://www.chalmers.se/personer/pale/) at Chalmers.
-
-- **Filip Rydin** is working on nonlinear Bayesian filtering using the deep splitting method. Jointly supervised with [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers. 
 
 ### Previous master thesis students
 
