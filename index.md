@@ -60,9 +60,9 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-### Looking for master students with strong interest in stochastic analysis
+### Looking for master students with strong interest in stochastic analysis and/or Bayesian statistics
 
-[Deep fictious play for stochastic differential games, theory and computations](https://www.saab.com/career/job-opportunities/master-thesis-30-hp--djupinlarningslosningar-till-stokastiska-differentialspel-for-distribuerad-styrning-av-multi-agent-system1). 
+Contact me. 
 
 ### PhD students
 
@@ -85,11 +85,8 @@ E-mail: adam.andersson(at)chalmers.se
 
 
 - **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** Efficient evaluation of target tracking using entropic optimal transport. Chalmers/Saab. Alfred continued as a PhD student in optimization at KTH and Viktor as a radar system engineer at Saab.
-
 - **Filip Rydin** A deep learning method for nonlinear stochastic filtering. Chalmers. Filip continued as a PhD student in AI and optimal control at Chalmers.
-
 - **Isak Wikman** and **Samuel Winqvist** Prospects of neural SDE for Bayesian smoothing. Chalmers/Saab. Isak is finnishing the last courses of his master and Samuel continued as data scientist at Thunderkick.
-
 - **Emma Öijar Jansson** [Bayesian estimation of sea clutter
 parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/get/diva2:1859981/FULLTEXT01.pdf). KTH/Saab 2023. Emma continued as a data scientist at ICA Sverige. 
 - **Albin Ekelund Karlsson** and **Samuel Sandelius** [Adaptive radar illuminations with deep reinforcement learning](https://odr.chalmers.se/server/api/core/bitstreams/5c3ae2ce-cf71-4ebf-8541-7c08f36def56/content), Chalmers/Saab 2023. Albin continued as a consultant at AFRY and Samuel as a radar simulator developer at Saab.
