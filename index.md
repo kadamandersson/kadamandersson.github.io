@@ -62,7 +62,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ### Looking for master students with strong interest in stochastic analysis or reinforcement learning
 
-Topics of interest are statistics for SDE, approximate stochastic differential control or games and multi agent reinforcement learning. Contact me if interested. 
+Topics of interest are statistics for SDE, approximate stochastic differential games, multi agent reinforcement learning. Contact me if interested. 
 
 ### PhD students
 
