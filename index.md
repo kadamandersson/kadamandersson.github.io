@@ -41,11 +41,11 @@ E-mail: adam.andersson(at)chalmers.se
 ### Preprints and submitted articles	
 
 <!--
-- K. Bågmark, A. A., F. Ryding, S. Larsson, Filtering with discrete observations using energy-based deep splitting, 2024. [PDF](https://arxiv.org/pdf/2203.17153.pdf)
+- K. Bågmark, A. A., S. Larsson, F. Rydin, A convergent scheme for the filtering problem based on the Fokker-Planck equation and deep splitting, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
 
-- K. Andersson, A. A., C. W. Oosterlee, A robust deep FBSDE method for general FBSDE, 2024. [PDF](https://arxiv.org/pdf/2201.06854.pdf)
+- K. Andersson, A. A., C. W. Oosterlee, A robust deep FBSDE method for general FBSDE, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
 
-- A. A., S. Larsson, Riccati equations for the boundary control and filtering of SPDE: solution theory, 2024. [PDF](https://arxiv.org/pdf/2201.06854.pdf)
+- A. A., S. Larsson, Riccati equations related to boundary control and filtering of SPDE, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
 
 -->
 
