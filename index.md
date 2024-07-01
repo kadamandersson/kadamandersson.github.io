@@ -85,7 +85,7 @@ Topics of interest are statistics for SDE, approximate stochastic differential g
 
 
 - **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** Efficient evaluation of target tracking using entropic optimal transport. Chalmers/Saab. Alfred continued as a PhD student in optimization at KTH and Viktor as a radar system engineer at Saab.
-- **Filip Rydin** A deep learning method for nonlinear stochastic filtering. Chalmers. Filip continued as a PhD student in AI and optimal control at Chalmers.
+- **Filip Rydin** [A deep learning method for nonlinear stochastic filtering](https://odr.chalmers.se/server/api/core/bitstreams/fe337e49-537f-4848-b68f-7b0d90d05a77/content). Chalmers. Filip continued as a PhD student in AI and optimal control at Chalmers.
 - **Isak Wikman** and **Samuel Winqvist** Prospects of neural SDE for Bayesian smoothing. Chalmers/Saab. Isak is finnishing the last courses of his master and Samuel continued as data scientist at Thunderkick.
 - **Emma Öijar Jansson** [Bayesian estimation of sea clutter
 parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/get/diva2:1859981/FULLTEXT01.pdf). KTH/Saab 2023. Emma continued as a data scientist at ICA Sverige. 
