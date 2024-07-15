@@ -60,7 +60,7 @@ E-mail: adam.andersson(at)chalmers.se
 
 ## Supervision
 
-### Looking for master students with strong interest in stochastic analysis or reinforcement learning
+### Looking for master students with strong interest in mathematics with applications
 
 Topics of interest are statistics for SDE, approximate stochastic differential games, multi agent reinforcement learning. Contact me if interested. 
 
