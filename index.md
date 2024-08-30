@@ -2,7 +2,7 @@
 
 I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and [University of Gothenburg](https://www.gu.se) and Specialist in Engineering Mathematics at [Saab](https://www.saab.com). 
 
-My current academic research concerns deep learning accelerated computational methods for nonlinear filtering and control. The goal is to push the boundaries for what can be filtered or controlled in real time. I am steering my interest towards partially observable stochastic Markov games in continuous and discrete time. 
+My current academic research concerns deep learning accelerated computational methods for nonlinear filtering, control and partially observabe Markov games. The goal is to push the boundaries for what can be filtered, controlled and played in real time. 
 
 In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. 
 
