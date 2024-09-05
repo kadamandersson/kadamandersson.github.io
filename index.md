@@ -136,7 +136,7 @@ parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/ge
 
 - [Älv, Bååth & Andersson](https://www.youtube.com/watch?v=2eacsONAWeg). A film by my paddling friend Jacob Kasprup Haagensen about a trip in the Vistas river in 2020. Shown at the Nordic Adventure Film Festival in Copenhagen 2022.
 
-- [Liv i kanot](http://livikanot.blogspot.com). My brother Arvid Bååth's paddle blog with stories and movies of paddling trips. 
+- [Kayaking in the Byske river 2019](https://www.youtube.com/watch?v=yyVUByskBdo). A film by my brother Arvid Bååth. 
 
 <!---
 
