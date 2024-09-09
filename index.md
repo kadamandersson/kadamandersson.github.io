@@ -1,4 +1,4 @@
-<img align = "left" style = "float:left; padding: 0px 20px 10px 0px" src="adamandersson2.JPG" width="320">
+<img align = "left" style = "float:left; padding: 0px 20px 10px 0px" src="adamandersson2.JPG" width="280">
 
 I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and [University of Gothenburg](https://www.gu.se) and Specialist in Engineering Mathematics at [Saab](https://www.saab.com). 
 
