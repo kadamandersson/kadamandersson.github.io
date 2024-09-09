@@ -12,6 +12,7 @@ Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Si
 
 E-mail: adam.andersson(at)chalmers.se
 
+Image: Me and the Saab Giraffe 1X radar
 
 
 ## Publications
