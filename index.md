@@ -71,7 +71,7 @@ I will be on leave during the first half of 2025 and will not be supervising mas
 
 ### Open academic master thesis projects
 
-- Deep learning for nonlinear filtering using backward stochastic differential equations. Supervised by [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers.
+- [Deep learning for nonlinear filtering using backward stochastic differential equations](Deep_BSDE_thesis_proposal.pdf). Supervised by [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers.
 
 
 ### PhD students
