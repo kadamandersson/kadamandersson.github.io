@@ -61,7 +61,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 ## Supervision
 
-I will be on leave during the first half of 2025 and will not be supervising master projects. But collegues are looking for students for three exciting projects.
+I will be on leave during the first half of 2025 and will not be deeply involved in supervising master projects. But collegues are looking for students for three exciting projects.
 
 ### Open industrial master thesis projects
 
