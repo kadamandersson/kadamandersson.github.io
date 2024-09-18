@@ -61,9 +61,18 @@ Image: Me and the Saab Giraffe 1X radar
 
 ## Supervision
 
-### Looking for master students with strong interest in mathematics with applications
+I will be on leave during the first half of 2025 and will not be supervising master projects. But collegues are looking for students for three exciting projects.
 
-Topics of interest are statistics for SDE, approximate stochastic differential games, multi agent reinforcement learning. Contact me if interested. 
+### Open industrial master thesis projects
+
+- **[Deep learning for stochastic differential games and distributed control](https://www.saab.com/career/job-opportunities/examensarbete-30hp-djupinlarning-for-stokastiska-differentialspel-och-distribuerad-styrning)** Supervised by Per Ljung at Saab. 
+
+- **[Diffusion models for generative modelling of a posteriori probability measures in target tracking](https://www.saab.com/career/job-opportunities/master-thesis-project-30-hp-diffusion-models-for-generative-modelling-of-a-posteriori-probability-measures-in-target-tracking1)** Supervised by Jimmy Aronsson, Karl Hammar and Benjamin Svedung Wettervik at Saab. 
+
+### Open academic master thesis projects
+
+- Deep learning for nonlinear filtering using backward stochastic differential equations. Supervised by Kasper Bågmark at Chalmers.
+
 
 ### PhD students
 
