@@ -17,6 +17,24 @@ Image: Me and the Saab Giraffe 1X radar
 
 ## Publications
 
+
+### Preprints and submitted articles	
+
+<!--
+
+- K. Andersson, A. A., C. W. Oosterlee, A robust deep FBSDE method for general FBSDE, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
+
+- A. A., S. Larsson, Riccati equations related to boundary control and filtering of SPDE, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
+
+-->
+
+- K. Bågmark, A. A., S. Larsson, F. Rydin, A convergent scheme for the Bayesian filtering problem based on the Fokker-Planck equation and deep splitting, 2024. [PDF](https://arxiv.org/pdf/2409.14585)
+
+- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs, 2019. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
+	
+- A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017. [PDF](https://arxiv.org/pdf/1703.07259.pdf)
+
+
 ### Journal articles
 
 - K. Bågmark, A. A., S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ (2023). [PDF](https://arxiv.org/pdf/2203.17153.pdf)
@@ -39,20 +57,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - A. A. and S. Larsson, Weak convergence for a spatial approximation of the nonlinear stochastic heat equation, _Math. Comp._ (2016). [PDF](https://arxiv.org/pdf/1212.5564.pdf)
 
-### Preprints and submitted articles	
 
-<!--
-- K. Bågmark, A. A., S. Larsson, F. Rydin, A convergent scheme for the filtering problem based on the Fokker-Planck equation and deep splitting, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
-
-- K. Andersson, A. A., C. W. Oosterlee, A robust deep FBSDE method for general FBSDE, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
-
-- A. A., S. Larsson, Riccati equations related to boundary control and filtering of SPDE, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
-
--->
-
-- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs, 2019. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
-	
-- A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017. [PDF](https://arxiv.org/pdf/1703.07259.pdf)
 
 ### Lecture notes
 - A. A. and P. Sjögren, Ornstein-Uhlenbeck theory in finite dimensions, Chalmers, 2012. [PDF](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf)
