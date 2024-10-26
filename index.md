@@ -65,9 +65,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 
 ## Supervision
-
-I will be on leave during the first half of 2025 and will not be deeply involved in supervising master projects. But collegues are looking for students for three exciting projects.
-
+<!--
 ### Open industrial master thesis projects
 
 - **[Deep learning for stochastic differential games and distributed control](https://www.saab.com/career/job-opportunities/examensarbete-30hp-djupinlarning-for-stokastiska-differentialspel-och-distribuerad-styrning)** Supervised by [Per Ljung](https://scholar.google.com/citations?user=wI5Ft0wAAAAJ&hl=en) at Saab. 
@@ -77,7 +75,7 @@ I will be on leave during the first half of 2025 and will not be deeply involved
 ### Open academic master thesis projects
 
 - **[Deep learning for nonlinear filtering using backward stochastic differential equations](Deep_BSDE_masterthesis_proposal.pdf)**. Supervised by [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers.
-
+-->
 
 ### PhD students
 
