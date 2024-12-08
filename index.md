@@ -97,8 +97,7 @@ Image: Me and the Saab Giraffe 1X radar
  
 -->
 
-
-
+- **Oliver Spjuth** Large scale target tracking using transformers. Chalmers/Saab 2024. Oliver contiued as a target tracking analyst and AI developer at Saab.
 - **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** [Efficient evaluation of target tracking using entropic optimal transport](https://odr.chalmers.se/server/api/core/bitstreams/3885a6e0-f649-4715-b3bf-80abc0be53fa/content). Chalmers/Saab 2024. Alfred continued as a PhD student in optimization at KTH and Viktor as a radar system engineer at Saab.
 - **Filip Rydin** [A deep learning method for nonlinear stochastic filtering](https://odr.chalmers.se/server/api/core/bitstreams/fe337e49-537f-4848-b68f-7b0d90d05a77/content). Chalmers 2024. Filip continued as a PhD student in AI and optimal control at Chalmers.
 - **Isak Wikman** and **Samuel Winqvist** [Prospects of neural SDE for Bayesian smoothing](https://odr.chalmers.se/server/api/core/bitstreams/25cab526-76e6-4adf-bb5f-27080febee7a/content). Chalmers/Saab 2024. Isak is finnishing the last courses of his master and Samuel continued as junior game mathematician at Thunderkick.
