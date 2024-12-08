@@ -85,9 +85,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Karl Hammar** will work on joint online system identification and state estimation for stochastic differential equations. It is an industrial PhD position funded by Saab and WASP. Jointly supervised with [Lennart Svensson](https://www.chalmers.se/personer/pale/) and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. Benjamin has defined the project and I am industrial supervisor.
 
-### Master students
-
-- **Oliver Spjuth** is working on transformer based target tracking. Jointly supervised with [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab.
+%### Master students
 
 ### Previous master thesis students
 
