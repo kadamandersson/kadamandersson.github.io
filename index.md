@@ -87,13 +87,24 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Karl Hammar** will work on joint online system identification and state estimation for stochastic differential equations. It is an industrial PhD position funded by Saab and WASP. Jointly supervised with [Lennart Svensson](https://www.chalmers.se/personer/pale/) and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. Benjamin has defined the project and I am industrial supervisor.
 
+
+### Master thesis students supervised by my PhD students, by close collegues or 
+
+- **Jacob Ljungberg** is working on decentralized control of drone swarms for the purpose of relaying information. Supervised by Mika Persson at Saab/Chalmers.
+
+- **Benjamin Elm Jonsson** and **Bekir Fazlija** are working on deep learning solvers for stochastic differential games. Supervised by Kristoffer Andersson at the university of Verona and Per Ljung at Saab.
+
+- **Gustav Birath Blom** and **Isak Nilsson** are working on neural SDE for Bayesian filtering and smoothing. Supervised by Karl Hammar, Jimmy Aronsson and Benjamin Svedung Wettervik at Saab.
+
+- **David Ahnlund** and **Axel Nilsson** are working on diffusion models for Bayesian filtering and smoothing. Supervised by Karl Hammar, Jimmy Aronsson and Benjamin Svedung Wettervik at Saab.
+
+- **Melker Bild** is working on a Bayesian filtering using a backward SDE approach. Supervised by Kasper Bågmark at Chalmers.
+
+- **Joel Axelsson** is working on deep learning approximation of conditional expectations and weak Bayesian filtering. Supervised by myself and Patrik Albin at Chalmers.
+
+
+
 ### Previous master thesis students
-
-<!-- 
-
-- **Oliver Spjuth** Target tracking with sparse transformers. Chalmers/Saab. Oliver Continued as target tracking analyst at Saab. 
- 
--->
 
 - **Oliver Spjuth** [Large scale target tracking using transformers](https://odr.chalmers.se/items/fae97993-c226-4598-8494-cbf2c0c84089). Chalmers/Saab 2024. Oliver contiued as a target tracking analyst and AI developer at Saab.
 - **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** [Efficient evaluation of target tracking using entropic optimal transport](https://odr.chalmers.se/server/api/core/bitstreams/3885a6e0-f649-4715-b3bf-80abc0be53fa/content). Chalmers/Saab 2024. Awarded **thesis of the year 2024** by the Swedish Operations Research Association (SOAF). Alfred continued as a PhD student in optimization at KTH and Viktor as a radar system engineer at Saab. 
