@@ -100,7 +100,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Melker Bild** is working on a Bayesian filtering using a backward SDE approach. Supervised by Kasper Bågmark at Chalmers.
 
-- **Joel Axelsson** is working on deep learning approximation of conditional expectations and weak Bayesian filtering. Supervised by Patrik Albin at Chalmers. Project defined by me.
+- **Joel Axelsson** is working on deep learning approximation of conditional expectations and weak Bayesian filtering. Supervised by Patrik Albin at Chalmers. 
 
 
 
