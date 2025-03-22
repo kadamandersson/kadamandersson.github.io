@@ -79,6 +79,8 @@ Image: Me and the Saab Giraffe 1X radar
 - **[Deep learning for nonlinear filtering using backward stochastic differential equations](Deep_BSDE_masterthesis_proposal.pdf)**. Supervised by [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers.
 -->
 
+- **Instructions for master thesis students**
+
 ### PhD students
 
 - **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program (WASP). Jointly supervised with [Stig Larsson](https://www.math.chalmers.se/~stig/). I have defined the project and act main supervisor. 
