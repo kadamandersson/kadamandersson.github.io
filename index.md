@@ -90,7 +90,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### Master thesis students supervised 2025 by my students or close collegues
 
-- **Jacob Ljungberg** is working on decentralized control of drones for the purpose of relaying communication. Supervised by Mika Persson at Saab/Chalmers.
+- **Jacob Ljungberg** is working on decentralized control of drones for the purpose of relaying communication. Supervised by Mika Persson at Saab/Chalmers and partly myself.
 
 - **Benjamin Elm Jonsson** and **Bekir Fazlija** are working on deep learning solvers for stochastic differential games. Supervised by Per Ljung at Saab and Kristoffer Andersson at the university of Verona.
 
@@ -100,7 +100,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Melker Bild** is working on a Bayesian filtering using a backward SDE approach. Supervised by Kasper Bågmark at Chalmers.
 
-- **Joel Axelsson** is working on deep learning approximation of conditional expectations and weak Bayesian filtering. Supervised by myself and Patrik Albin at Chalmers. 
+- **Joel Axelsson** is working on deep learning approximation of conditional expectations and weak Bayesian filtering. Supervised by Patrik Albin at Chalmers and partly myself. 
 
 
 
