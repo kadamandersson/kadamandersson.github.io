@@ -94,9 +94,9 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Benjamin Elm Jonsson** and **Bekir Fazlija** are working on deep learning solvers for stochastic differential games. Supervised by Per Ljung at Saab and Kristoffer Andersson at the university of Verona.
 
-- **Gustav Birath Blom** and **Isak Nilsson** are working on neural SDE for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, Jimmy Aronsson and Benjamin Svedung Wettervik at Saab.
+- **Gustav Birath Blom** and **Isak Nilsson** are working on neural SDE for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, Jimmy Aronsson, and Benjamin Svedung Wettervik at Saab and Moritz Schauer at Chalmers.
 
-- **David Ahnlund** and **Axel Nilsson** are working on diffusion models for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, Jimmy Aronsson and Benjamin Svedung Wettervik at Saab.
+- **David Ahnlund** and **Axel Nilsson** are working on diffusion models for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, Jimmy Aronsson, and Benjamin Svedung Wettervik at Saab and Moritz Schauer at Chalmers.
 
 - **Melker Bild** is working on a Bayesian filtering using a backward SDE approach. Supervised by Kasper Bågmark at Chalmers.
 
