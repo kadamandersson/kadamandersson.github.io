@@ -88,7 +88,7 @@ Image: Me and the Saab Giraffe 1X radar
 - **Karl Hammar** will work on joint online system identification and state estimation for stochastic differential equations. It is an industrial PhD position funded by Saab and WASP. Jointly supervised with [Lennart Svensson](https://www.chalmers.se/personer/pale/) and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. Benjamin has defined the project and I am industrial supervisor.
 
 
-### Master thesis students supervised by my PhD students, by close collegues or 
+### Master thesis students supervised by my students or close collegues
 
 - **Jacob Ljungberg** is working on decentralized control of drone swarms for the purpose of relaying information. Supervised by Mika Persson at Saab/Chalmers.
 
