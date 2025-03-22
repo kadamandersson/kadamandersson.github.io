@@ -127,7 +127,7 @@ parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/ge
 - **Viktor Blomqvist** and **David Lidberg** [Swedish dialect classification using artificial neural networks and Gaussian mixture models](https://odr.chalmers.se/bitstream/20.500.12380/251852/1/251852.pdf), Chalmers/Syntronic 2017. Viktor continued as algorithm developer at Syntronic and David as machine learning engineer at RaySearch Laborarories.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin 2016. Leander continued as a consultant at Sopra Steria Consulting.
 - **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers 2014. Yueleng continued to study a second master in statistics at the University of Windsor.
-
+- **TODO** [Instructions for master thesis students](Instructions.pdf) 
 
 
 ## Presentations on YouTube
