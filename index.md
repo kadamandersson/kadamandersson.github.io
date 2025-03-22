@@ -90,15 +90,15 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### Master thesis students supervised 2025 by my students or close colleagues
 
-- **Jacob Ljungberg** is working on decentralized control of drones for the purpose of relaying communication. Supervised by Mika Persson at Saab/Chalmers and partly myself.
+- **Jacob Ljungberg** is working on decentralized control of drones for the purpose of relaying communication. Supervised by [Mika Persson](https://www.chalmers.se/personer/mikape/) at Saab/Chalmers and partly myself.
 
 - **Benjamin Elm Jonsson** and **Bekir Fazlija** are working on deep learning solvers for stochastic differential games. Supervised by Per Ljung at Saab and [Kristoffer Andersson](https://scholar.google.com/citations?user=uga_3dwAAAAJ&hl=sv) at the university of Verona.
 
-- **Gustav Birath Blom** and **Isak Nilsson** are working on neural SDE for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, Jimmy Aronsson, and Benjamin Svedung Wettervik at Saab and Moritz Schauer at Chalmers.
+- **Gustav Birath Blom** and **Isak Nilsson** are working on neural SDE for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, [Jimmy Aronsson](https://scholar.google.se/citations?user=wz41154AAAAJ&hl=sv), and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers.
 
-- **David Ahnlund** and **Axel Nilsson** are working on diffusion models for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, Jimmy Aronsson, and Benjamin Svedung Wettervik at Saab and Moritz Schauer at Chalmers.
+- **David Ahnlund** and **Axel Nilsson** are working on diffusion models for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, [Jimmy Aronsson](https://scholar.google.se/citations?user=wz41154AAAAJ&hl=sv), and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers.
 
-- **Melker Bild** is working on a Bayesian filtering using a backward SDE approach. Supervised by Kasper Bågmark at Chalmers.
+- **Melker Bild** is working on a Bayesian filtering using a backward SDE approach. Supervised by [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers.
 
 - **Joel Axelsson** is working on deep learning approximation of conditional expectations and weak Bayesian filtering. Supervised by [Patrik Albin](https://www.math.chalmers.se/~palbin/) at Chalmers and partly myself. 
 
