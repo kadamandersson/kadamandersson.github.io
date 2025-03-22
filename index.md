@@ -79,7 +79,7 @@ Image: Me and the Saab Giraffe 1X radar
 - **[Deep learning for nonlinear filtering using backward stochastic differential equations](Deep_BSDE_masterthesis_proposal.pdf)**. Supervised by [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers.
 -->
 
-- **[Instructions for master thesis students](https://github.com/kadamandersson/kadamandersson.github.io/blob/master/MSc_thesis_instructions.pdf)**
+- **[Instructions for master thesis students](MSc_thesis_instructions.pdf)**
 
 ### PhD students
 
