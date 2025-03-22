@@ -92,7 +92,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Jacob Ljungberg** is working on decentralized control of drone swarms for the purpose of relaying information. Supervised by Mika Persson at Saab/Chalmers.
 
-- **Benjamin Elm Jonsson** and **Bekir Fazlija** are working on deep learning solvers for stochastic differential games. Supervised by Kristoffer Andersson at the university of Verona and Per Ljung at Saab.
+- **Benjamin Elm Jonsson** and **Bekir Fazlija** are working on deep learning solvers for stochastic differential games. Supervised by Per Ljung at Saab and Kristoffer Andersson at the university of Verona.
 
 - **Gustav Birath Blom** and **Isak Nilsson** are working on neural SDE for Bayesian filtering and smoothing. Supervised by Karl Hammar, Jimmy Aronsson and Benjamin Svedung Wettervik at Saab.
 
