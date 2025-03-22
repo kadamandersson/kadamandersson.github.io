@@ -92,7 +92,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Jacob Ljungberg** is working on decentralized control of drones for the purpose of relaying communication. Supervised by Mika Persson at Saab/Chalmers and partly myself.
 
-- **Benjamin Elm Jonsson** and **Bekir Fazlija** are working on deep learning solvers for stochastic differential games. Supervised by Per Ljung at Saab and Kristoffer Andersson at the university of Verona.
+- **Benjamin Elm Jonsson** and **Bekir Fazlija** are working on deep learning solvers for stochastic differential games. Supervised by Per Ljung at Saab and [Kristoffer Andersson](https://scholar.google.com/citations?user=uga_3dwAAAAJ&hl=sv) at the university of Verona.
 
 - **Gustav Birath Blom** and **Isak Nilsson** are working on neural SDE for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, Jimmy Aronsson, and Benjamin Svedung Wettervik at Saab and Moritz Schauer at Chalmers.
 
@@ -100,7 +100,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Melker Bild** is working on a Bayesian filtering using a backward SDE approach. Supervised by Kasper Bågmark at Chalmers.
 
-- **Joel Axelsson** is working on deep learning approximation of conditional expectations and weak Bayesian filtering. Supervised by Patrik Albin at Chalmers and partly myself. 
+- **Joel Axelsson** is working on deep learning approximation of conditional expectations and weak Bayesian filtering. Supervised by [Patrik Albin](https://www.math.chalmers.se/~palbin/) at Chalmers and partly myself. 
 
 
 
