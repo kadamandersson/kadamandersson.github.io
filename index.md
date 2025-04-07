@@ -31,13 +31,13 @@ Image: Me and the Saab Giraffe 1X radar
 - K. Andersson, A. A., C. W. Oosterlee, The deep multi-FBSDE method: a robust deep learning method for coupled FBSDEs, 2025. [PDF](https://arxiv.org/pdf/2503.13193)
 
 - K. Bågmark, A. A., S. Larsson, F. Rydin, A convergent scheme for the Bayesian filtering problem based on the Fokker-Planck equation and deep splitting, 2024. [PDF](https://arxiv.org/pdf/2409.14585)
-
-- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs, 2019. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
 	
 - A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017. [PDF](https://arxiv.org/pdf/1703.07259.pdf)
 
 
 ### Journal articles
+
+- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs _Accepted for publication in Applied Mathematics and Optimization (2025)_. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
 
 - K. Bågmark, A. A., S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ (2023). [PDF](https://arxiv.org/pdf/2203.17153.pdf)
 
