@@ -37,7 +37,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### Journal articles
 
-- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs _Accepted for publication in Applied Mathematics and Optimization (2025)_. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
+- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs _Accepted for publication in Appl. Math. Opt. (2025)_. [PDF](https://arxiv.org/pdf/1910.05261.pdf)
 
 - K. Bågmark, A. A., S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ (2023). [PDF](https://arxiv.org/pdf/2203.17153.pdf)
 
