@@ -87,7 +87,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **[Mika Persson](https://www.chalmers.se/personer/mikape/)** is working on decentralized control of multi-function sensors. It is an industrial PhD position funded by Saab and WASP within the WASP Research Arena in Public Safety (WARA-PS). Jointly supervised with [Axel Ringh](https://sites.google.com/view/axelringh/home) and [Ann-Brith Strömberg](https://research.chalmers.se/person/anstr) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. I have defined the project and am industrial supervisor.
 
-- **Karl Hammar** will work on joint online system identification and state estimation for stochastic differential equations. It is an industrial PhD position funded by Saab and WASP. Jointly supervised with [Lennart Svensson](https://www.chalmers.se/personer/pale/) and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. Benjamin has defined the project and I am industrial supervisor.
+- **Karl Hammar** is working on joint online system identification and state estimation for stochastic differential equations. It is an industrial PhD position funded by Saab and WASP. Jointly supervised with [Lennart Svensson](https://www.chalmers.se/personer/pale/) and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. Benjamin has defined the project and I am industrial supervisor.
 
 
 ### Master thesis students supervised 2025 in my proximity
