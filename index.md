@@ -62,8 +62,13 @@ Image: Me and the Saab Giraffe 1X radar
 
 
 ### Lecture notes
-- A. A. and P. Sjögren, Ornstein-Uhlenbeck theory in finite dimensions, Chalmers, 2012. [PDF](http://www.math.chalmers.se/Math/Research/Preprints/2012/12.pdf)
+- A. A. and P. Sjögren, Ornstein-Uhlenbeck theory in finite dimensions, Chalmers, 2012. [PDF](OU.pdf)
 
+- A. A. Malliavin Calculus, Chalmers, 2013. [PDF](Malliavin.pdf)
+
+- A. A. Brownian motion, Chalmers, 2012. [PDF](BM.pdf)
+
+- A. A. Markov processes, Chalmers, 2012. [PDF](Markov.pdf)
 
 
 ## Supervision
