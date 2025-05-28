@@ -62,13 +62,13 @@ Image: Me and the Saab Giraffe 1X radar
 
 
 ### Lecture notes
-- Malliavin Calculus (unfinnished and incomplete but instructive), Chalmers, 2013. [PDF](Malliavin.pdf) 
+- **Malliavin Calculus** (unfinnished and incomplete but instructive), Chalmers, 2013. [PDF](Malliavin.pdf) 
 
-- Ornstein-Uhlenbeck theory in finite dimensions, Chalmers, 2012. Written under the supervision of P. Sjögren based on his lectures. [PDF](OU.pdf)
+- **Ornstein-Uhlenbeck theory in finite dimensions**, Chalmers, 2012. Written under the supervision of P. Sjögren based on his lectures. [PDF](OU.pdf)
 
-- Brownian motion, Chalmers, 2012. [PDF](BM.pdf)
+- **Brownian motion**, Chalmers, 2012. [PDF](BM.pdf)
 
-- Markov processes, Chalmers, 2012. [PDF](Markov.pdf)
+- **Markov processes**, Chalmers, 2012. [PDF](Markov.pdf)
 
 
 ## Supervision
