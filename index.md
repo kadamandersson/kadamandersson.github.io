@@ -64,7 +64,7 @@ Image: Me and the Saab Giraffe 1X radar
 ### Lecture notes
 - Malliavin Calculus (unfinnished and incomplete but instructive), Chalmers, 2013. [PDF](Malliavin.pdf) 
 
-- Ornstein-Uhlenbeck theory in finite dimensions, Chalmers, 2012. Written together with P. Sjögren based on his lecture in a course wit the same name. [PDF](OU.pdf)
+- Ornstein-Uhlenbeck theory in finite dimensions, Chalmers, 2012. Written under the supervision of P. Sjögren based on his lectures in his course with the same name. [PDF](OU.pdf)
 
 - Brownian motion, Chalmers, 2012. [PDF](BM.pdf)
 
