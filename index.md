@@ -94,6 +94,9 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Karl Hammar** is working on joint online system identification and state estimation for stochastic differential equations. It is an industrial PhD position funded by Saab and WASP. Jointly supervised with [Lennart Svensson](https://www.chalmers.se/personer/pale/) and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. Benjamin has defined the project and we are industrial supervisors.
 
+### Postdoc
+
+- **Per Ljung** will work on radar signal processing and more precisely on detection in challenging heterogeneous and non-Gaussian clutter. It is an industrial postdoc position funded by Saab and WASP. Jointly supervised with [Tomas McKelvey](https://www.chalmers.se/personer/mckelvey/) at Chalmers, [Patrik Dammert](https://research.chalmers.se/person/dammert) at Chalmers and Saab, [Mattias Ekström](https://research.chalmers.se/person/mekstrom) and [Andreas Sundström](https://scholar.google.com/citations?user=e8le8yIAAAAJ&hl=en) at Saab. I have defined the project and am industrial supervisor.
 
 ### Master thesis students supervised 2025 in my proximity
 
