@@ -6,8 +6,6 @@ My current academic research concerns deep learning accelerated computational me
 
 In my previous research I worked on stochastic differential equations, in particular numerical analysis, solution theory and Malliavin calculus for stochastic partial differential equations. 
 
-In my specialist role at Saab I lead the development within the field of engineering mathematics in specific directions that I define. This consists in particular of investigating collaborations and funding oportunities for research studies or projects. 
-
 Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), [Google Scholar profile](https://scholar.google.se/citations?user=LzPSY_YAAAAJ&hl=sv) and [LinkedIn profile](https://www.linkedin.com/in/adam-andersson-61695462/).
 
 E-mail: adam.andersson(at)chalmers.se
