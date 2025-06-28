@@ -60,6 +60,9 @@ Image: Me and the Saab Giraffe 1X radar
 
 
 ### Lecture notes
+
+- **Introduction to stochastic control and filtering**, Chalmers, 2025. [PDF](Stochastic_control_and_filtering_June28_2025.pdf)
+
 - **Malliavin Calculus** (unfinnished and incomplete but instructive), Chalmers, 2013. [PDF](Malliavin.pdf)
 
 - **Ornstein-Uhlenbeck theory in finite dimensions**, Chalmers, 2012. Written under the supervision of P. Sjögren based on his lectures. [PDF](OU.pdf)
