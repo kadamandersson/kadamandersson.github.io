@@ -103,11 +103,11 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Jacob Ljungberg** [Communication Relaying Networks Using Autonomous Drones: Solving Cooperative Markov Games Using Multi-Agent Reinforcement Learning](https://odr.chalmers.se/items/79790eb1-576f-4e94-88ec-f647f28afdc0). Saab/Chalmers 2025. Jacob continued as a radar system engineer at Saab.
 
-- **Benjamin Elm Jonsson** and **Bekir Fazlija** [Stochastic differential games and decentralized control](https://odr.chalmers.se/items/1790f341-d113-46e9-80de-a4b3a943d887). Benjamin continued as a PhD student at Humbold Univerity zu Berlin and Bekir as a radar system engineer at Saab.
+- **Benjamin Elm Jonsson** and **Bekir Fazlija** [Stochastic differential games and decentralized control](https://odr.chalmers.se/items/1790f341-d113-46e9-80de-a4b3a943d887). Saab/Chalmers 2025. Benjamin continued as a PhD student at Humbold Univerität zu Berlin and Bekir as a radar system engineer at Saab.
 
-- **Gustav Birath Blom** and **Isak Nilsson** [Learning neural SDEs for Bayesian filtering and smoothing](https://odr.chalmers.se/items/b9eb07df-1bb2-4ade-b522-590c26531e16).
+- **Gustav Birath Blom** and **Isak Nilsson** [Learning neural SDEs for Bayesian filtering and smoothing](https://odr.chalmers.se/items/b9eb07df-1bb2-4ade-b522-590c26531e16). Saab/Chalmers 2025. Isak continued as a radar system engineer at Saab.
 
-- **David Ahnlund** and **Axel Nilsson** are working on diffusion models for Bayesian filtering and smoothing. Supervised by Karl Hammar at Saab/Chalmers, [Jimmy Aronsson](https://scholar.google.se/citations?user=wz41154AAAAJ&hl=sv), and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers.
+- **David Ahnlund** and **Axel Nilsson** Diffusion models for generative modelling of aposteriori probability measures in target tracking. KTH/Saab 2025.
 
 - **Melker Bild** is working on a Bayesian filtering using a backward SDE approach. Supervised by [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers.
 
