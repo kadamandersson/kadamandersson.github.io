@@ -101,7 +101,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### Master thesis students supervised 2025 in my proximity
 
-- **Jacob Ljungberg** is working on decentralized control of drones for the purpose of relaying communication. Supervised by [Mika Persson](https://www.chalmers.se/personer/mikape/) at Saab/Chalmers.
+- **Jacob Ljungberg** [Communication Relaying Networks Using Autonomous Drones: Solving Cooperative Markov Games Using Multi-Agent Reinforcement Learning](https://odr.chalmers.se/items/79790eb1-576f-4e94-88ec-f647f28afdc0). Saab/Chalmers 2025. Jacob continued as a radar system engineer at Saab.
 
 - **Benjamin Elm Jonsson** and **Bekir Fazlija** [Stochastic differential games and decentralized control](https://odr.chalmers.se/items/1790f341-d113-46e9-80de-a4b3a943d887). Benjamin continued as a PhD student at Humbold Univerity zu Berlin and Bekir as a radar system engineer at Saab.
 
