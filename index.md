@@ -101,9 +101,9 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### Master thesis students supervised 2025 in my proximity
 
-- **Jacob Ljungberg** [Communication Relaying Networks Using Autonomous Drones: Solving Cooperative Markov Games Using Multi-Agent Reinforcement Learning](https://odr.chalmers.se/items/79790eb1-576f-4e94-88ec-f647f28afdc0). Saab/Chalmers 2025. Jacob continued as a radar system engineer at Saab.
-
 - **Benjamin Elm Jonsson** and **Bekir Fazlija** [Stochastic differential games and decentralized control](https://odr.chalmers.se/items/1790f341-d113-46e9-80de-a4b3a943d887). Saab/Chalmers 2025. Benjamin continued as a PhD student at Humbold Univerität zu Berlin and Bekir as a radar system engineer at Saab.
+
+- **Jacob Ljungberg** [Communication Relaying Networks Using Autonomous Drones: Solving Cooperative Markov Games Using Multi-Agent Reinforcement Learning](https://odr.chalmers.se/items/79790eb1-576f-4e94-88ec-f647f28afdc0). Saab/Chalmers 2025. Jacob continued as a radar system engineer at Saab.
 
 - **Gustav Birath Blom** and **Isak Nilsson** [Learning neural SDEs for Bayesian filtering and smoothing](https://odr.chalmers.se/items/b9eb07df-1bb2-4ade-b522-590c26531e16). Saab/Chalmers 2025. Isak continued as a radar system engineer at Saab.
 
