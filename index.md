@@ -99,7 +99,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **[Per Ljung](https://research.chalmers.se/person/perlj)** will work on radar signal processing and more precisely on detection in challenging heterogeneous and non-Gaussian clutter. It is an industrial postdoc position funded by Saab and WASP. Jointly supervised with [Tomas McKelvey](https://www.chalmers.se/personer/mckelvey/) at Chalmers, [Patrik Dammert](https://research.chalmers.se/person/dammert) at Chalmers and Saab, [Mattias Ekström](https://research.chalmers.se/person/mekstrom) and [Andreas Sundström](https://scholar.google.com/citations?user=e8le8yIAAAAJ&hl=en) at Saab. I have defined the project and am industrial supervisor.
 
-### Master thesis students supervised 2025 in my proximity
+### Master thesis students supervised 2025 by close collegues within joint projects
 
 - **Benjamin Elm Jonsson** and **Bekir Fazlija** [Stochastic differential games and decentralized control](https://odr.chalmers.se/items/1790f341-d113-46e9-80de-a4b3a943d887). Saab/Chalmers 2025. Benjamin continued as a PhD student at Humbold Univerität zu Berlin and Bekir as a radar system engineer at Saab.
 
