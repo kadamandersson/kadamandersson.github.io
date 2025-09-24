@@ -116,7 +116,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Gustav Birath Blom** and **Isak Nilsson** [Learning neural SDEs for Bayesian filtering and smoothing](https://odr.chalmers.se/items/b9eb07df-1bb2-4ade-b522-590c26531e16). Saab/Chalmers 2025. Isak continued as a radar system engineer at Saab.
 
-- **David Ahnlund** and **Axel Nilsson** [Diffusion models for generative modelling of a posteriori probability measures in target tracking](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123). Saab/KTH 2025.
+- **David Ahnlund** and **Axel Nilsson** [Diffusion models for generative modelling of a posteriori probability measures in target tracking](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123). Saab/KTH 2025. David and Axel continued as system engineers at Saab. 
 
 - **Melker Bild** [Deep Learning for the Nonlinear Filtering Problem: Adapting the Deep Backward Stochastic Differential Equation Method to Stochastic Filtering](https://odr.chalmers.se/items/a3093e14-1282-4af8-bb68-ded6db5e08f0). Chalmers 2025.
 
