@@ -118,7 +118,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **David Ahnlund** and **Axel Nilsson** [Diffusion models for generative modelling of a posteriori probability measures in target tracking](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123). Saab/KTH 2025.
 
-- **Melker Bild** is working on a Bayesian filtering using a backward SDE approach. Supervised by [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers.
+- **Melker Bild** [Deep Learning for the Nonlinear Filtering Problem: Adapting the Deep Backward Stochastic Differential Equation Method to Stochastic Filtering](https://odr.chalmers.se/items/a3093e14-1282-4af8-bb68-ded6db5e08f0). Chalmers 2025.
 
 - **Joel Axelsson** is working on deep learning approximation of conditional expectations and weak Bayesian filtering. Supervised by [Patrik Albin](https://www.math.chalmers.se/~palbin/) at Chalmers. 
 
