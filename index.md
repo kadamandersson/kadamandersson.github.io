@@ -83,7 +83,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **[Drönarduell modellerad med stokastiska differentialspel och tränad med djupinlärning](https://www.saab.com/career/job-opportunities/examensarbete-30-hp-linjarkvadratiska-dronarspel-med-utvidgningar)**. 
 
-- **[Linjärkvadratiska drönarspel med utvidgningar](https://www.saab.com/career/job-opportunities/examensarbete-30-hp-linjarkvadratiska-dronarspel-med-utvidgningar))**  
+- **[Linjärkvadratiska drönarspel med utvidgningar](https://www.saab.com/career/job-opportunities/examensarbete-30-hp-linjarkvadratiska-dronarspel-med-utvidgningar)**  
 
 <!--
 ### Open academic master thesis projects
