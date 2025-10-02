@@ -79,6 +79,8 @@ Image: Me and the Saab Giraffe 1X radar
 
 ## Supervision
 
+[Instructions for master thesis students](Instructions.pdf)
+
 ### Open industrial master thesis projects
 
 - **[Drönarduell modellerad med stokastiska differentialspel och tränad med djupinlärning](https://www.saab.com/career/job-opportunities/examensarbete-30-hp-linjarkvadratiska-dronarspel-med-utvidgningar)**. 
@@ -91,7 +93,7 @@ Image: Me and the Saab Giraffe 1X radar
 - **[Deep learning for nonlinear filtering using backward stochastic differential equations](Deep_BSDE_masterthesis_proposal.pdf)**. Supervised by [Kasper Bågmark](https://bagmark.wordpress.com) at Chalmers.
 -->
 
-[Instructions for master thesis students](Instructions.pdf)
+
 
 ### PhD students
 
