@@ -83,7 +83,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### Open industrial master thesis projects
 
-- **[Drönarduell modellerad med stokastiska differentialspel och tränad med djupinlärning](https://www.saab.com/career/job-opportunities/examensarbete-30-hp-linjarkvadratiska-dronarspel-med-utvidgningar)**. Supervised by myself and [Kristoffer Andersson](https://scholar.google.com/citations?user=uga_3dwAAAAJ&hl=sv).
+- **[Drönarduell modellerad med stokastiska differentialspel och tränad med djupinlärning](https://www.saab.com/career/job-opportunities/examensarbete-30-hp-dronarduell-modellerad-med-stokastiska-differentialspel-och-tranad-med-djupinlarning)**. Supervised by myself and [Kristoffer Andersson](https://scholar.google.com/citations?user=uga_3dwAAAAJ&hl=sv).
 
 - **[Linjärkvadratiska drönarspel med utvidgningar](https://www.saab.com/career/job-opportunities/examensarbete-30-hp-linjarkvadratiska-dronarspel-med-utvidgningar)**. Supervised by [Mika Persson](https://www.chalmers.se/personer/mikape/) and myself.
 
