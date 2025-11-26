@@ -80,16 +80,6 @@ Image: Me and the Saab Giraffe 1X radar
 ## Supervision
 
 [Instructions for master thesis students](Instructions.pdf)
-<!--
-### Open industrial master thesis projects
-
-
-### Open academic master thesis projects
-
-
--->
-
-
 
 ### PhD students
 
@@ -102,7 +92,6 @@ Image: Me and the Saab Giraffe 1X radar
 ### Postdoc
 
 - **[Per Ljung](https://research.chalmers.se/person/perlj)** is working on radar detection in challenging heterogeneous and non-Gaussian clutter. It is an industrial postdoc position funded by Saab and WASP. Jointly supervised with [Tomas McKelvey](https://www.chalmers.se/personer/mckelvey/) at Chalmers, [Patrik Dammert](https://research.chalmers.se/person/dammert) at Chalmers and Saab, [Mattias Ekström](https://research.chalmers.se/person/mekstrom) and [Andreas Sundström](https://scholar.google.com/citations?user=e8le8yIAAAAJ&hl=en) at Saab. I have defined the project and am industrial supervisor.
-
 
 
 
