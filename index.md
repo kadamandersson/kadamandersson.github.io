@@ -18,14 +18,6 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### Preprints and submitted articles	
 
-<!--
-
-- K. Andersson, A. A., C. W. Oosterlee, A robust deep FBSDE method for general FBSDE, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
-
-- A. A., S. Larsson, Riccati equations related to boundary control and filtering of SPDE, 2024. [PDF](https://arxiv.org/pdf/TODO.pdf)
-
--->
-
 - M. Persson, J. Lidman, J. Ljungberg, S. Sandelius, A.A, Dynamic one-time delivery of critical data by small and sparse UAV
   swarms: a model problem for MARL scaling studies, 2025. [PDF](https://arxiv.org/abs/2512.09682)
 
@@ -94,7 +86,9 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **[Per Ljung](https://research.chalmers.se/person/perlj)** is working on radar detection in challenging heterogeneous and non-Gaussian clutter. It is an industrial postdoc position funded by Saab and WASP. Jointly supervised with [Tomas McKelvey](https://www.chalmers.se/personer/mckelvey/) at Chalmers, [Patrik Dammert](https://research.chalmers.se/person/dammert) at Chalmers and Saab, [Mattias Ekström](https://research.chalmers.se/person/mekstrom) and [Andreas Sundström](https://scholar.google.com/citations?user=e8le8yIAAAAJ&hl=en) at Saab. I have defined the project and am industrial supervisor.
 
+### Master thesis students
 
+- **Filip Berglund** and **Lukas Wenåker** are working on linear quadratic games. Supervised together with [Mika Persson](https://www.chalmers.se/personer/mikape/).
 
 
 ### Master thesis students supervised 2025 by close collegues within joint projects
