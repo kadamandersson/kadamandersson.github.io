@@ -91,16 +91,6 @@ Image: Me and the Saab Giraffe 1X radar
 - **Filip Berglund** and **Lukas Wenåker** are working on linear quadratic games. Supervised together with [Mika Persson](https://www.chalmers.se/personer/mikape/).
 
 
-### Master thesis students supervised 2025 by close collegues within joint projects
-
-- **Benjamin Elm Jonsson** and **Bekir Fazlija** [Stochastic differential games and decentralized control](https://odr.chalmers.se/items/1790f341-d113-46e9-80de-a4b3a943d887). Saab/Chalmers 2025. Benjamin continued as a PhD student in mathematics at Humbold Univerität zu Berlin and Bekir as a radar system engineer at Saab.
-
-- **Jacob Ljungberg** [Communication Relaying Networks Using Autonomous Drones: Solving Cooperative Markov Games Using Multi-Agent Reinforcement Learning](https://odr.chalmers.se/items/79790eb1-576f-4e94-88ec-f647f28afdc0). Saab/Chalmers 2025. Jacob continued as a radar system engineer at Saab.
-
-- **Gustav Birath Blom** and **Isak Nilsson** [Learning neural SDEs for Bayesian filtering and smoothing](https://odr.chalmers.se/items/b9eb07df-1bb2-4ade-b522-590c26531e16). Saab/Chalmers 2025. Gustav and Isak continued as a radar system engineer at Saab.
-
-- **David Ahnlund** and **Axel Nilsson** [Diffusion models for generative modelling of a posteriori probability measures in target tracking](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123). Saab/KTH 2025. David and Axel continued as system engineers at Saab.
-
 
 
 ### Previous master thesis students
