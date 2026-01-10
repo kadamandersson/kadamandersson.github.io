@@ -117,7 +117,7 @@ parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/ge
 
 
 
-### Master thesis students supervised 2025 by close collegues within joint projects
+### Master thesis students supervised by close collegues within joint projects
 
 - **Benjamin Elm Jonsson** and **Bekir Fazlija** [Stochastic differential games and decentralized control](https://odr.chalmers.se/items/1790f341-d113-46e9-80de-a4b3a943d887). Saab/Chalmers 2025. Benjamin continued as a PhD student in mathematics at Humbold Univerität zu Berlin and Bekir as a radar system engineer at Saab.
 
