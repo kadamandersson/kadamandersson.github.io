@@ -116,7 +116,7 @@ parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/ge
 - **Mika Persson** [Towards deep learning accelerated sparse Bayesian frequency estimation](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9102407&fileOId=9102408), Lund University/Saab 2022. Mika continued as a radar systems engineer at Saab and later as industrial PhD student at Saab/Chalmers/WASP.
 - **Axel Nathansson** [Exploration of reinforcement learning in radar scheduling](https://odr.chalmers.se/items/06f4e3cc-42e2-4796-abb4-6631c71f4477), Chalmers/Saab 2021. Axel continued as algorithm developer at Tobii.
 - **Elias Hölen Hannouch** and **Oskar Holmstedt** [Deep learning accelerated Bayesian inference for state space models](https://odr.chalmers.se/items/ed5e5583-f7ae-40cf-8918-e7054860d5df), Chalmers/Smartr 2020. Elias and Oskar continued to work as developers at Ericsson and Oskar later as a PhD student in biomathematics at Gothenburg University.
-- **Anton Matsson** and **Victor Ohlsson** [Predicting customer behavior using adversarial imitation learning](https://odr.chalmers.se/items/27b8ee5b-9e64-484d-8e4d-97ac1c8fd7d8), Chalmers/Smartr 2020. Anton continued as a PhD student in AI at Chalmers and Victor as software engineer at Kollmorgen.
+- **Anton Matsson** and **Victor Ohlsson** [Predicting customer behavior using adversarial imitation learning](https://odr.chalmers.se/items/27b8ee5b-9e64-484d-8e4d-97ac1c8fd7d8), Chalmers/Smartr 2020. Anton continued as a PhD student in AI at Chalmers ([PhD Thesis](https://research.chalmers.se/publication/547730)) and Victor as software engineer at Kollmorgen.
 - **Klara Granbom** [On nonlinear machine learning methods for dose-response data in drug discovery](https://odr.chalmers.se/items/ed050ce0-13b7-4cf9-a5b6-0b9815932437), Chalmers/Smartr/IRLAB 2020. Klara continued as a developer at Collector Bank. 
 - **Kristoffer Andersson** [Approximate stochastic control based on deep learning and forward backward stochastic differential equations](https://odr.chalmers.se/items/438762ae-b679-4f5e-b07e-fd5ac51c1454), Chalmers/Syntronic 2018. Kristoffer continued as a PhD student in machine learning for mathematical finance at Centrum Wiskunde Informatica, Amsterdam ([PhD Thesis](https://dspace.library.uu.nl/bitstream/handle/1874/433487/phdthesisfinal%20-%2065549cbcc4f23.pdf?sequence=1)).
 - **Gustaf Ehn** and **Hugo Werner** [Scalable reinforcement learning for a simulated production line](https://lup.lub.lu.se/student-papers/search/publication/8936610), Lund University/Syntronic 2018. Gustaf continued as algorithm developer at Syntronic and Hugo as data scientist at Stena Line.
@@ -124,6 +124,20 @@ parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/ge
 - **Viktor Blomqvist** and **David Lidberg** [Swedish dialect classification using artificial neural networks and Gaussian mixture models](https://odr.chalmers.se/items/164f1cb1-ed1a-4195-97b8-faa3a31ae9bd), Chalmers/Syntronic 2017. Viktor continued as algorithm developer at Syntronic and David as machine learning engineer at RaySearch Laborarories.
 - **Leander Schroer** [Numerical approximation of operator Riccati equations for distributed control of SPDE](Leander_Official.pdf), TU-Berlin 2016. Leander continued as a consultant at Sopra Steria Consulting.
 - **Yueleng Wang** [Efficient computation of the strong and weak error for linear SDE](Yueleng.pdf), Chalmers 2014. Yueleng continued to study a second master in statistics at the University of Windsor.
+
+
+
+### Master thesis students supervised 2025 by close collegues within joint projects
+
+- **Benjamin Elm Jonsson** and **Bekir Fazlija** [Stochastic differential games and decentralized control](https://odr.chalmers.se/items/1790f341-d113-46e9-80de-a4b3a943d887). Saab/Chalmers 2025. Benjamin continued as a PhD student in mathematics at Humbold Univerität zu Berlin and Bekir as a radar system engineer at Saab.
+
+- **Jacob Ljungberg** [Communication Relaying Networks Using Autonomous Drones: Solving Cooperative Markov Games Using Multi-Agent Reinforcement Learning](https://odr.chalmers.se/items/79790eb1-576f-4e94-88ec-f647f28afdc0). Saab/Chalmers 2025. Jacob continued as a radar system engineer at Saab.
+
+- **Gustav Birath Blom** and **Isak Nilsson** [Learning neural SDEs for Bayesian filtering and smoothing](https://odr.chalmers.se/items/b9eb07df-1bb2-4ade-b522-590c26531e16). Saab/Chalmers 2025. Gustav and Isak continued as a radar system engineer at Saab.
+
+- **David Ahnlund** and **Axel Nilsson** [Diffusion models for generative modelling of a posteriori probability measures in target tracking](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1991123). Saab/KTH 2025. David and Axel continued as system engineers at Saab.
+
+
 
 
 ## Presentations on YouTube
