@@ -24,14 +24,14 @@ Image: Me and the Saab Giraffe 1X radar
 - K. Bågmark, A. A., S. Larsson, Nonlinear filtering based on density approximation and deep BSDE
   prediction, 2025. [PDF](http://arxiv.org/abs/2508.10630)
 
-- K. Andersson, A. A., C. W. Oosterlee, The deep multi-FBSDE method: a robust deep learning method for coupled FBSDEs, 2025. [PDF](https://arxiv.org/pdf/2503.13193)
-
 - K. Bågmark, A. A., S. Larsson, F. Rydin, A convergent scheme for the Bayesian filtering problem based on the Fokker-Planck equation and deep splitting, 2024. [PDF](https://arxiv.org/pdf/2409.14585)
 	
 - A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017. [PDF](https://arxiv.org/pdf/1703.07259.pdf)
 
 
 ### Journal articles
+
+- K. Andersson, A. A., C. W. Oosterlee, The deep multi-FBSDE method: a robust deep learning method for coupled FBSDEs, 2025. Accepted for publication in _J. Sci. Comput._ (2026). [PDF](https://arxiv.org/pdf/2503.13193)
 
 - A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs _Appl. Math. Opt._ (2025). [PDF](https://arxiv.org/pdf/1910.05261.pdf)
 
