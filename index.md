@@ -33,7 +33,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - K. Andersson, A. A., C. W. Oosterlee, The deep multi-FBSDE method: a robust deep learning method for coupled FBSDEs. Accepted for publication in _J. Sci. Comput._ (2026). [PDF](https://arxiv.org/pdf/2503.13193)
 
-- A. A., A. Lang, A. Pettersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs _Appl. Math. Opt._ (2025). [PDF](https://arxiv.org/pdf/1910.05261.pdf)
+- A. A., A. Lang, A. Petersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs _Appl. Math. Opt._ (2025). [PDF](https://arxiv.org/pdf/1910.05261.pdf)
 
 - K. Bågmark, A. A., S. Larsson, An energy-based deep splitting method for the nonlinear filtering problem, _Partial Differential Eq. Appl._ (2023). [PDF](https://arxiv.org/pdf/2203.17153.pdf)
 
