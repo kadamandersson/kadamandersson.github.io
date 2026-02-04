@@ -2,7 +2,7 @@
 
 I am Adjunct Associate Professor in Computational Mathematics at the [Department of Mathematical Sciences](https://www.chalmers.se/sv/institutioner/math/Sidor/default.aspx) at [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx) and [University of Gothenburg](https://www.gu.se) and Specialist in Engineering Mathematics at [Saab](https://www.saab.com). 
 
-My academic research concerns theory, applications and deep learning accelerated computational methods for statistics for SDE, stochastic control, Markov games and radar signal processing. The goal is to push the boundaries for what can be filtered, controlled, played and detected in real time. I work under the model-based machine learning paradigm, where strucure is kept to a maximal degree and learned models are introduced only where there is little structure, or for surrogate modelling to remove computational bottlenecks.
+My research concerns theory, applications and deep learning accelerated computational methods for statistics for SDE, stochastic control, Markov games and radar signal processing. The goal is to push the boundaries for what can be filtered, controlled, played and detected in real time. I work under the model-based machine learning paradigm, where strucure is kept to a maximal degree and learned models are introduced only where there is little structure, or for surrogate modelling to remove computational bottlenecks.
 
 Here you find my [Official Chalmers page](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), [Google Scholar profile](https://scholar.google.se/citations?user=LzPSY_YAAAAJ&hl=sv) and [LinkedIn profile](https://www.linkedin.com/in/adam-andersson-61695462/).
 
