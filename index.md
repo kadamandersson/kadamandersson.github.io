@@ -74,7 +74,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### PhD students
 
-- **[Kasper Bågmark](https://bagmark.wordpress.com)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program (WASP). Jointly supervised with [Stig Larsson](https://www.math.chalmers.se/~stig/). I have defined the project and act main supervisor. 
+- **[Kasper Bågmark](https://bagmark.github.io)** is working on deep learning for the nonlinear filtering problem. The aim is to obtain approximate filters that scale better than particle filters. It is an academic project financed by the Wallenberg AI, Autonomous Systems and Software Program (WASP). Jointly supervised with [Stig Larsson](https://www.math.chalmers.se/~stig/). I have defined the project and act main supervisor. 
 
 - **[Mika Persson](https://www.chalmers.se/personer/mikape/)** is working on decentralized control of multi-function sensors. It is an industrial PhD position funded by Saab and WASP within the WASP Research Arena in Public Safety (WARA-PS). Jointly supervised with [Axel Ringh](https://sites.google.com/view/axelringh/home) and [Ann-Brith Strömberg](https://research.chalmers.se/person/anstr) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. I have defined the project and am industrial supervisor.
 
