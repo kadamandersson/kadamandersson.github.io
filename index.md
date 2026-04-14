@@ -27,7 +27,7 @@ Image: Me and the Saab Giraffe 1X radar
 ### Conference articles
 
 - M. Persson, J. Lidman, J. Ljungberg, S. Sandelius, A.A, Dynamic one-time delivery of critical data by small and sparse UAV
-  swarms: a model problem for MARL scaling studies. Accepted for publication in _Proceedings of the 23rd IFAC World Congress_ (2026)[PDF](https://arxiv.org/abs/2512.09682)
+  swarms: a model problem for MARL scaling studies. Accepted for publication in _Proceedings of the 23rd IFAC World Congress_  (2026) [PDF](https://arxiv.org/abs/2512.09682)
 
 
 
