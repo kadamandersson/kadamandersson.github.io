@@ -16,9 +16,6 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### Preprints and submitted articles	
 
-- M. Persson, J. Lidman, J. Ljungberg, S. Sandelius, A.A, Dynamic one-time delivery of critical data by small and sparse UAV
-  swarms: a model problem for MARL scaling studies, 2025. [PDF](https://arxiv.org/abs/2512.09682)
-
 - K. Bågmark, A. A., S. Larsson, Nonlinear filtering based on density approximation and deep BSDE
   prediction, 2025. [PDF](http://arxiv.org/abs/2508.10630)
 
@@ -27,9 +24,16 @@ Image: Me and the Saab Giraffe 1X radar
 - A. A. and F. Lindner, Poisson Malliavin calculus in Hilbert space with an application to SPDE, 2017. [PDF](https://arxiv.org/pdf/1703.07259.pdf)
 
 
+### Conference articles
+
+- M. Persson, J. Lidman, J. Ljungberg, S. Sandelius, A.A, Dynamic one-time delivery of critical data by small and sparse UAV
+  swarms: a model problem for MARL scaling studies. Accepted for publication in _Proceedings of the 23rd IFAC World Congress_ (2026)[PDF](https://arxiv.org/abs/2512.09682)
+
+
+
 ### Journal articles
 
-- K. Andersson, A. A., C. W. Oosterlee, The deep multi-FBSDE method: a robust deep learning method for coupled FBSDEs. Accepted for publication in _J. Sci. Comput._ (2026). [PDF](https://arxiv.org/pdf/2503.13193)
+- K. Andersson, A. A., C. W. Oosterlee, The deep multi-FBSDE method: a robust deep learning method for coupled FBSDEs. _J. Sci. Comput._ (2026). [PDF](https://arxiv.org/pdf/2503.13193)
 
 - A. A., A. Lang, A. Petersson and L. Schroer, Finite element approximation of Lyapunov equations related to parabolic stochastic PDEs _Appl. Math. Opt._ (2025). [PDF](https://arxiv.org/pdf/1910.05261.pdf)
 
