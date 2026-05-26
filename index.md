@@ -78,24 +78,17 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### PhD students
 
-- **[Kasper Bågmark](https://bagmark.github.io)** [Learning to estimate: Bayesian filtering with deep density methods](https://research.chalmers.se/en/publication/551750). PhD defence 2026 May 22. Chalmers.
-
 - **[Mika Persson](https://www.chalmers.se/personer/mikape/)** is working on decentralized control of multi-function sensors. It is an industrial PhD position funded by Saab and WASP within the WASP Research Arena in Public Safety (WARA-PS). Jointly supervised with [Axel Ringh](https://sites.google.com/view/axelringh/home) and [Ann-Brith Strömberg](https://research.chalmers.se/person/anstr) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. I have defined the project and am industrial supervisor.
 
 - **Karl Hammar** is working on joint online system identification and state estimation for stochastic differential equations. It is an industrial PhD position funded by Saab and WASP. Jointly supervised with [Lennart Svensson](https://www.chalmers.se/personer/pale/) and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. Benjamin has defined the project and we are industrial supervisors.
+
+- **[Kasper Bågmark](https://bagmark.github.io)** [Learning to estimate: Bayesian filtering with deep density methods](https://research.chalmers.se/en/publication/551750). Chalmers 2026.
 
 ### Postdoc
 
 - **[Per Ljung](https://research.chalmers.se/person/perlj)** is working on radar detection in challenging heterogeneous and non-Gaussian clutter. It is an industrial postdoc position funded by Saab and WASP. Jointly supervised with [Tomas McKelvey](https://www.chalmers.se/personer/mckelvey/) at Chalmers, [Patrik Dammert](https://research.chalmers.se/person/dammert) at Chalmers and Saab, [Mattias Ekström](https://research.chalmers.se/person/mekstrom) and [Andreas Sundström](https://scholar.google.com/citations?user=e8le8yIAAAAJ&hl=en) at Saab. I have defined the project and am industrial supervisor.
 
 ### Master thesis students
-
-- **Filip Berglund** and **Lukas Wenåker** are working on linear quadratic games. Supervised together with [Mika Persson](https://www.chalmers.se/personer/mikape/).
-
-
-
-
-### Previous master thesis students
 
 - **Oliver Spjuth** [Large scale target tracking using transformers](https://odr.chalmers.se/items/fae97993-c226-4598-8494-cbf2c0c84089). Chalmers/Saab 2024. Oliver contiued as a target tracking analyst and AI developer at Saab.
 - **Alfred Wärnsäter** and **Viktor Nevelius Wernholm** [Efficient evaluation of target tracking using entropic optimal transport](https://odr.chalmers.se/server/api/core/bitstreams/3885a6e0-f649-4715-b3bf-80abc0be53fa/content). Chalmers/Saab 2024. Awarded **thesis of the year 2024** by the Swedish Operations Research Association (SOAF). Alfred continued as a PhD student in optimization at KTH and Viktor as a radar system engineer at Saab. 
