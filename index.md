@@ -82,7 +82,7 @@ Image: Me and the Saab Giraffe 1X radar
 
 - **Karl Hammar** is working on joint online system identification and state estimation for stochastic differential equations. It is an industrial PhD position funded by Saab and WASP. Jointly supervised with [Lennart Svensson](https://www.chalmers.se/personer/pale/) and [Moritz Schauer](https://www.math.chalmers.se/~smoritz/) at Chalmers and [Benjamin Svedung Wettervik](https://scholar.google.se/citations?user=dwmcfd0AAAAJ&hl=sv) at Saab. Benjamin has defined the project and we are industrial supervisors.
 
-- **[Kasper Bågmark](https://bagmark.github.io)** [Learning to estimate: Bayesian filtering with deep density methods](https://research.chalmers.se/en/publication/551750). Chalmers 2026.
+- **[Kasper Bågmark](https://bagmark.github.io)** [Learning to estimate: Bayesian filtering with deep density methods](https://research.chalmers.se/en/publication/551750). Chalmers 2026. Kasper continued as a WASP-KAW funded postdoc position at Vrije Universiteit Amsterdam working with uncertainty quantification for mathematical neuroscience with scientific machine learning. 
 
 ### Postdoc
 
