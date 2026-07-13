@@ -16,8 +16,6 @@ Image: Me and the Saab Giraffe 1X radar
 
 ### Preprints and submitted articles	
 
-https://arxiv.org/pdf/2607.08861
-
 - A. A., K. Andersson, P. Ljung, Convergence of fictitious play for fully coupled FBSDE in finite-player stochastic differential games. [PDF](https://arxiv.org/pdf/2607.08861)
 
 - K. Bågmark, A. A., S. Larsson, Nonlinear filtering based on density approximation and deep BSDE
