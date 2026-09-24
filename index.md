@@ -10,6 +10,9 @@ E-mail: adam.andersson(at)chalmers.se
 
 Image: Me and the Saab Giraffe 1X radar
 
+## Master thesis project at Saab
+
+- **Finding the UAV in a Haystack of birds - Deep Models for Target Classification in Radar Tracking** [Apply](https://www.saab.com/career/job-opportunities/master-thesis-30hp-finding-the-uav-in-a-haystack-of-birds----deep-models-for-target-classification-in-radar-tracking)
 
 ## Publications
 
