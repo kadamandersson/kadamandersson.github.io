@@ -116,6 +116,12 @@ parameters for radar, a stochastic approach](http://kth.diva-portal.org/smash/ge
 
 ### Master thesis students supervised by close collegues within joint projects
 
+- **Ellen Carlsson** and **Joakim Colpier** [Schrödinger bridges for Bayesian filtering](https://odr.chalmers.se/items/291ac087-fbec-4d36-8bbf-22f89be8390d). Saab/Chalmers 2026. Ellen continued as a radar systems engineer at Saab and Joakim as autonomy systems engineer at Saab.
+
+- **Fredrik Boman** [Sequential normalising flows for approximating smoothing distributions](https://odr.chalmers.se/items/5d35bf32-f623-42af-b0b9-fc5ffa3abf16). Saab/Chalmers 2026. Fredrik continued as a software engineer at Saab.
+
+- **Filip Berglund** and **Lukas Wenåker** [Understanding linear-quadratic drone games through simulation](https://odr.chalmers.se/items/291ac087-fbec-4d36-8bbf-22f89be8390d). Saab/Chalmers 2026. 
+
 - **Benjamin Elm Jonsson** and **Bekir Fazlija** [Stochastic differential games and decentralized control](https://odr.chalmers.se/items/1790f341-d113-46e9-80de-a4b3a943d887). Saab/Chalmers 2025. Benjamin continued as a PhD student in mathematics at Humbold Univerität zu Berlin and Bekir as a radar system engineer at Saab.
 
 - **Jacob Ljungberg** [Communication Relaying Networks Using Autonomous Drones: Solving Cooperative Markov Games Using Multi-Agent Reinforcement Learning](https://odr.chalmers.se/items/79790eb1-576f-4e94-88ec-f647f28afdc0). Saab/Chalmers 2025. Jacob continued as a radar system engineer at Saab.
